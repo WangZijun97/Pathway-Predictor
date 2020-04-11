@@ -1,0 +1,38 @@
+[2020-04-11 19:21:02.585328] Files opened, running algo
+
+[2020-04-11 19:21:02.588297] Getting Tissue Types of ENSP00000282356 with NX >= 10.0
+[2020-04-11 19:21:02.590315] Getting Tissue Types of ENSP00000387699 with NX >= 10.0
+
+---------- cerebral cortex ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- testis ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- lymph node ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- thymus ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- cerebellum ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- T-cells ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+---------- basal ganglia ----------
+
+Target ENSP00000387699 cannot be reachedfrom Source ENSP00000282356
+
+--------------------
+
+
+[2020-04-11 19:21:02.617219] Closing files
+[2020-04-11 19:21:02.618213] Files Closed

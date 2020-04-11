@@ -1,0 +1,5 @@
+Translate ENSMBL ENSG_ENSP REST API curl "http://rest.ensembl.org/lookup/id/{id}.json"
+Obtain tissue parts from initial using human protein atlas using NX (normalized > 1.0) -> curl "https://www.proteinatlas.org/{id}.json", using cols tissue RNA - {location} [NX]
+perform STRING-db search
+filter all proteins not from tissue location
+output steps for each viable location
