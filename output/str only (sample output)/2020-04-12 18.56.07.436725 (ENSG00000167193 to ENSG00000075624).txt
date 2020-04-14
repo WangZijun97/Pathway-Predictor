@@ -1,0 +1,249 @@
+[2020-04-12 18:56:07.436725] Beginning Query: Predicting Pathway from ENSG00000167193 to ENSG00000075624 in 2 iters
+[2020-04-12 18:56:07.436725] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:56:07.456669] Opening String-DB
+[2020-04-12 18:56:23.717081] Opening ProteinAtlas-DB
+[2020-04-12 18:56:26.552251] Initial tissues: {'stomach 1', 'spinal cord', 'hippocampal formation', 'kidney', 'breast', 'placenta', 'smooth muscle', 'thyroid gland', 'tonsil', 'vagina', 'adrenal gland', 'amygdala', 'ductus deferens', 'ovary', 'retina', 'endometrium 1', 'cerebellum', 'fallopian tube', 'parathyroid gland', 'seminal vesicle', 'liver', 'corpus callosum', 'adipose tissue', 'rectum', 'cerebral cortex', 'skeletal muscle', 'epididymis', 'midbrain', 'gallbladder', 'duodenum', 'lung', 'basal ganglia', 'pancreas', 'appendix', 'colon', 'salivary gland', 'esophagus', 'olfactory region', 'small intestine', 'skin 1', 'tongue', 'heart muscle', 'urinary bladder', 'pons and medulla', 'prostate', 'granulocytes', 'thalamus', 'hypothalamus', 'testis', 'spleen'}
+[2020-04-12 18:56:26.552251] Expanding Nodes | Iteration 0
+[2020-04-12 18:56:26.554245] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:56:26.569205] Converting 326 Codes of STRING_ID to ACC
+[2020-04-12 18:56:26.585162] Conversion Query Complete. To check 326 nodes and 338 edges.
+[2020-04-12 18:56:26.586157] Interation 0 Complete
+[2020-04-12 18:56:26.587156] Expanding Nodes | Iteration 1
+[2020-04-12 18:56:26.588187] Converting 326 Codes of ACC to STRING_ID
+[2020-04-12 18:56:26.600121] Converting 2 Codes of ACC to STRING_ID via Uniprot
+ > ['Q8IUE6', 'Q562R1']
+[2020-04-12 18:56:26.601118] Querying uniprot.org with 2 codes
+[2020-04-12 18:56:27.983095] Converting 4811 Codes of STRING_ID to ACC
+[2020-04-12 18:56:28.000049] Converting 54 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000462355', '9606.ENSP00000364801', '9606.ENSP00000323872', '9606.ENSP00000054668', '9606.ENSP00000352119', '9606.ENSP00000353099', '9606.ENSP00000370083', '9606.ENSP00000254810', '9606.ENSP00000433157', '9606.ENSP00000403077', '9606.ENSP00000366999', '9606.ENSP00000462667', '9606.ENSP00000479461', '9606.ENSP00000352252', '9606.ENSP00000348054', '9606.ENSP00000409666', '9606.ENSP00000399168', '9606.ENSP00000358154', '9606.ENSP00000321744', '9606.ENSP00000480960', '9606.ENSP00000333277', '9606.ENSP00000400906', '9606.ENSP00000352627', '9606.ENSP00000365402', '9606.ENSP00000348924', '9606.ENSP00000482271', '9606.ENSP00000351589', '9606.ENSP00000479794', '9606.ENSP00000347168', '9606.ENSP00000484658', '9606.ENSP00000348527', '9606.ENSP00000484638', '9606.ENSP00000346509', '9606.ENSP00000304147', '9606.ENSP00000366956', '9606.ENSP00000406873', '9606.ENSP00000484095', '9606.ENSP00000358160', '9606.ENSP00000367034', '9606.ENSP00000443017', '9606.ENSP00000459962', '9606.ENSP00000479106', '9606.ENSP00000366962', '9606.ENSP00000445633', '9606.ENSP00000303373', '9606.ENSP00000480826', '9606.ENSP00000382982', '9606.ENSP00000483283', '9606.ENSP00000482431', '9606.ENSP00000379873', '9606.ENSP00000244537', '9606.ENSP00000366974', '9606.ENSP00000481486', '9606.ENSP00000358155']
+[2020-04-12 18:56:28.000049] Querying uniprot.org with 54 codes
+[2020-04-12 18:56:29.321051] Conversion Query Complete. To check 4811 nodes and 39818 edges.
+[2020-04-12 18:56:29.358984] Interation 1 Complete
+
+------ stomach 1 ------
+
+Pathway #1
+--------------------
+
+ > CRK (P46108)
+ > RHOA (P61586)
+ > ACTB (P60709)
+
+Pathway #2
+--------------------
+
+ > CRK (P46108)
+ > WASF3 (Q9UPY6)
+ > ACTB (P60709)
+
+Pathway #3
+--------------------
+
+ > CRK (P46108)
+ > CYFIP1 (Q7L576)
+ > ACTB (P60709)
+
+Pathway #4
+--------------------
+
+ > CRK (P46108)
+ > WASF1 (Q92558)
+ > ACTB (P60709)
+
+Pathway #5
+--------------------
+
+ > CRK (P46108)
+ > NCKAP1L (P55160)
+ > ACTB (P60709)
+
+Pathway #6
+--------------------
+
+ > CRK (P46108)
+ > ABI2 (Q9NYB9)
+ > ACTB (P60709)
+
+Pathway #7
+--------------------
+
+ > CRK (P46108)
+ > RAC1 (P63000)
+ > ACTB (P60709)
+
+Pathway #8
+--------------------
+
+ > CRK (P46108)
+ > CDC42 (P60953)
+ > ACTB (P60709)
+
+Pathway #9
+--------------------
+
+ > CRK (P46108)
+ > ABI1 (Q8IZP0)
+ > ACTB (P60709)
+
+Pathway #10
+--------------------
+
+ > CRK (P46108)
+ > BAIAP2 (Q9UQB8)
+ > ACTB (P60709)
+
+Pathway #11
+--------------------
+
+ > CRK (P46108)
+ > NCKAP1 (Q9Y2A7)
+ > ACTB (P60709)
+
+Pathway #12
+--------------------
+
+ > CRK (P46108)
+ > WASF2 (Q9Y6W5)
+ > ACTB (P60709)
+
+Pathway #13
+--------------------
+
+ > CRK (P46108)
+ > CYFIP2 (Q96F07)
+ > ACTB (P60709)
+
+Pathway #14
+--------------------
+
+ > CRK (P46108)
+ > BRK1 (Q8WUW1)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #1
+--------------------
+
+ > CRK (P46108)
+ > RHOA (P61586)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #2
+--------------------
+
+ > CRK (P46108)
+ > WASF3 (Q9UPY6)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #3
+--------------------
+
+ > CRK (P46108)
+ > CYFIP1 (Q7L576)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #4
+--------------------
+
+ > CRK (P46108)
+ > WASF1 (Q92558)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #5
+--------------------
+
+ > CRK (P46108)
+ > NCKAP1L (P55160)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #6
+--------------------
+
+ > CRK (P46108)
+ > ABI2 (Q9NYB9)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #7
+--------------------
+
+ > CRK (P46108)
+ > RAC1 (P63000)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #8
+--------------------
+
+ > CRK (P46108)
+ > CDC42 (P60953)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #9
+--------------------
+
+ > CRK (P46108)
+ > ABI1 (Q8IZP0)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #10
+--------------------
+
+ > CRK (P46108)
+ > BAIAP2 (Q9UQB8)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #11
+--------------------
+
+ > CRK (P46108)
+ > NCKAP1 (Q9Y2A7)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #12
+--------------------
+
+ > CRK (P46108)
+ > WASF2 (Q9Y6W5)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #13
+--------------------
+
+ > CRK (P46108)
+ > CYFIP2 (Q96F07)
+ > ACTB (P60709)
+
+>>> stomach 1 <<<
+
+Pathway #14
+--------------------
+
+ > CRK (P46108)
+ > BRK1 (Q8WUW1)
+ > ACTB (P60709)
+
+[2020-04-12 18:56:29.497582] End of Query

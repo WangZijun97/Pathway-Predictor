@@ -1,0 +1,219 @@
+[2020-04-14 06:58:51.070391] Beginning Query: Predicting Pathway from ENSG00000117560 to ENSG00000164305 in 2 iters
+[2020-04-14 06:58:51.070391] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-14 06:58:51.094329] Opening String-DB
+[2020-04-14 06:59:06.008005] Opening ProteinAtlas-DB
+[2020-04-14 06:59:08.474030] Initial tissues: {'filter removed'}
+[2020-04-14 06:59:08.474030] Expanding Nodes | Iteration 0
+[2020-04-14 06:59:08.475030] Converting 2 Codes of ACC to STRING_ID
+[2020-04-14 06:59:08.499193] Converting 160 Codes of STRING_ID to ACC
+[2020-04-14 06:59:08.519145] Converting 1 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000359013']
+[2020-04-14 06:59:08.519145] Querying uniprot.org with 1 codes
+[2020-04-14 06:59:10.241542] Conversion Query Complete. To check 160 nodes and 170 edges.
+[2020-04-14 06:59:10.242537] Conversion Complete. Filtering 169 edges
+[2020-04-14 06:59:10.243535] Interation 0 Complete
+[2020-04-14 06:59:10.246528] Expanding Nodes | Iteration 1
+[2020-04-14 06:59:10.246528] Converting 159 Codes of ACC to STRING_ID
+[2020-04-14 06:59:10.275450] Converting 4004 Codes of STRING_ID to ACC
+[2020-04-14 06:59:10.298414] Converting 18 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000391800', '9606.ENSP00000443017', '9606.ENSP00000291295', '9606.ENSP00000272298', '9606.ENSP00000409666', '9606.ENSP00000459962', '9606.ENSP00000452479', '9606.ENSP00000353099', '9606.ENSP00000479106', '9606.ENSP00000323872', '9606.ENSP00000054668', '9606.ENSP00000244537', '9606.ENSP00000347168', '9606.ENSP00000367034', '9606.ENSP00000176183', '9606.ENSP00000254810', '9606.ENSP00000379873', '9606.ENSP00000359013']
+[2020-04-14 06:59:10.298414] Querying uniprot.org with 18 codes
+[2020-04-14 06:59:12.034596] Conversion Query Complete. To check 4004 nodes and 14160 edges.
+[2020-04-14 06:59:12.043572] Conversion Complete. Filtering 14124 edges
+[2020-04-14 06:59:12.051292] Interation 1 Complete
+
+------ filter removed ------
+
+Pathway #1
+--------------------
+
+ > FASLG (P48023)
+ > BIRC3 (Q13489)
+ > CASP3 (P42574)
+
+Pathway #2
+--------------------
+
+ > FASLG (P48023)
+ > TNFSF10 (P50591)
+ > CASP3 (P42574)
+
+Pathway #3
+--------------------
+
+ > FASLG (P48023)
+ > CASP7 (P55210)
+ > CASP3 (P42574)
+
+Pathway #4
+--------------------
+
+ > FASLG (P48023)
+ > RIPK1 (Q13546)
+ > CASP3 (P42574)
+
+Pathway #5
+--------------------
+
+ > FASLG (P48023)
+ > TNFRSF10B (O14763)
+ > CASP3 (P42574)
+
+Pathway #6
+--------------------
+
+ > FASLG (P48023)
+ > TNFRSF10A (O00220)
+ > CASP3 (P42574)
+
+Pathway #7
+--------------------
+
+ > FASLG (P48023)
+ > TRADD (Q15628)
+ > CASP3 (P42574)
+
+Pathway #8
+--------------------
+
+ > FASLG (P48023)
+ > CASP8 (Q14790)
+ > CASP3 (P42574)
+
+Pathway #9
+--------------------
+
+ > FASLG (P48023)
+ > CASP10 (Q92851)
+ > CASP3 (P42574)
+
+Pathway #10
+--------------------
+
+ > FASLG (P48023)
+ > FADD (Q13158)
+ > CASP3 (P42574)
+
+Pathway #11
+--------------------
+
+ > FASLG (P48023)
+ > TRAF2 (Q12933)
+ > CASP3 (P42574)
+
+Pathway #12
+--------------------
+
+ > FASLG (P48023)
+ > BIRC2 (Q13490)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #1
+--------------------
+
+ > FASLG (P48023)
+ > BIRC3 (Q13489)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #2
+--------------------
+
+ > FASLG (P48023)
+ > TNFSF10 (P50591)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #3
+--------------------
+
+ > FASLG (P48023)
+ > CASP7 (P55210)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #4
+--------------------
+
+ > FASLG (P48023)
+ > RIPK1 (Q13546)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #5
+--------------------
+
+ > FASLG (P48023)
+ > TNFRSF10B (O14763)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #6
+--------------------
+
+ > FASLG (P48023)
+ > TNFRSF10A (O00220)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #7
+--------------------
+
+ > FASLG (P48023)
+ > TRADD (Q15628)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #8
+--------------------
+
+ > FASLG (P48023)
+ > CASP8 (Q14790)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #9
+--------------------
+
+ > FASLG (P48023)
+ > CASP10 (Q92851)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #10
+--------------------
+
+ > FASLG (P48023)
+ > FADD (Q13158)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #11
+--------------------
+
+ > FASLG (P48023)
+ > TRAF2 (Q12933)
+ > CASP3 (P42574)
+
+>>> filter removed <<<
+
+Pathway #12
+--------------------
+
+ > FASLG (P48023)
+ > BIRC2 (Q13490)
+ > CASP3 (P42574)
+
+[2020-04-14 06:59:12.153321] End of Query

@@ -1,0 +1,70 @@
+[2020-04-12 18:54:18.307001] Beginning Query: Predicting Pathway from ENSG00000114554 to ENSG00000172757 in 2 iters
+[2020-04-12 18:54:18.308015] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:54:18.323986] Opening String-DB
+[2020-04-12 18:54:34.437997] Opening ProteinAtlas-DB
+[2020-04-12 18:54:37.258574] Initial tissues: {'parathyroid gland'}
+[2020-04-12 18:54:37.258574] Expanding Nodes | Iteration 0
+[2020-04-12 18:54:37.261565] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:54:37.276558] Converting 64 Codes of STRING_ID to ACC
+[2020-04-12 18:54:37.289492] Conversion Query Complete. To check 64 nodes and 65 edges.
+[2020-04-12 18:54:37.289492] Interation 0 Complete
+[2020-04-12 18:54:37.293495] Expanding Nodes | Iteration 1
+[2020-04-12 18:54:37.295476] Converting 64 Codes of ACC to STRING_ID
+[2020-04-12 18:54:37.310466] Converting 1657 Codes of STRING_ID to ACC
+[2020-04-12 18:54:37.324424] Converting 6 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000379873', '9606.ENSP00000353099', '9606.ENSP00000365402', '9606.ENSP00000240618', '9606.ENSP00000364801', '9606.ENSP00000399168']
+[2020-04-12 18:54:37.324424] Querying uniprot.org with 6 codes
+[2020-04-12 18:54:39.404001] Conversion Query Complete. To check 1657 nodes and 4294 edges.
+[2020-04-12 18:54:39.408955] Interation 1 Complete
+
+------ parathyroid gland ------
+
+Pathway #1
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > HSP90AB1 (P08238)
+ > CFL1 (P23528)
+
+Pathway #2
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > LIMK1 (P53667)
+ > CFL1 (P23528)
+
+Pathway #3
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > HSP90AA1 (P07900)
+ > CFL1 (P23528)
+
+>>> parathyroid gland <<<
+
+Pathway #1
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > HSP90AB1 (P08238)
+ > CFL1 (P23528)
+
+>>> parathyroid gland <<<
+
+Pathway #2
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > LIMK1 (P53667)
+ > CFL1 (P23528)
+
+>>> parathyroid gland <<<
+
+Pathway #3
+--------------------
+
+ > PLXNA1 (Q9UIW2)
+ > HSP90AA1 (P07900)
+ > CFL1 (P23528)
+
+[2020-04-12 18:54:39.430860] End of Query

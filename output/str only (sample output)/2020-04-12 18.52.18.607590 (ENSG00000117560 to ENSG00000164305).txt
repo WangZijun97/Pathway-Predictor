@@ -1,0 +1,11 @@
+[2020-04-12 18:52:18.607590] Beginning Query: Predicting Pathway from ENSG00000117560 to ENSG00000164305 in 2 iters
+[2020-04-12 18:52:18.607590] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:52:18.624510] Opening String-DB
+[2020-04-12 18:52:34.613361] Opening ProteinAtlas-DB
+[2020-04-12 18:52:37.556471] Initial tissues: set()
+
+No common tissues between P48023 and P42574
+P48023: {'NK-cells', 'T-cells'}
+P42574: {'granulocytes', 'rectum', 'cerebellum', 'appendix', 'spleen', 'duodenum', 'liver', 'placenta', 'adipose tissue', 'thymus', 'bone marrow', 'small intestine', 'stomach 1', 'lymph node', 'urinary bladder', 'tonsil', 'esophagus', 'colon'}
+
+[2020-04-12 18:52:37.558467] End of Query

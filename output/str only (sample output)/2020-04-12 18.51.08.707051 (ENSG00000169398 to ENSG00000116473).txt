@@ -1,0 +1,36 @@
+[2020-04-12 18:51:08.707051] Beginning Query: Predicting Pathway from ENSG00000169398 to ENSG00000116473 in 2 iters
+[2020-04-12 18:51:08.707051] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:51:08.727997] Opening String-DB
+[2020-04-12 18:51:25.036340] Opening ProteinAtlas-DB
+[2020-04-12 18:51:27.834071] Initial tissues: {'thyroid gland', 'heart muscle', 'corpus callosum', 'ovary', 'parathyroid gland', 'spinal cord', 'cerebral cortex', 'epididymis', 'olfactory region', 'colon', 'thalamus', 'kidney', 'seminal vesicle', 'ductus deferens', 'basal ganglia', 'hippocampal formation', 'small intestine', 'gallbladder', 'salivary gland', 'skeletal muscle', 'smooth muscle', 'midbrain', 'amygdala', 'breast', 'endometrium 1', 'adipose tissue', 'hypothalamus', 'vagina', 'fallopian tube', 'prostate', 'pons and medulla', 'rectum', 'lung', 'stomach 1', 'urinary bladder', 'liver', 'cerebellum', 'adrenal gland', 'placenta'}
+[2020-04-12 18:51:27.834071] Expanding Nodes | Iteration 0
+[2020-04-12 18:51:27.836066] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:51:27.855043] Converting 383 Codes of STRING_ID to ACC
+[2020-04-12 18:51:27.868980] Conversion Query Complete. To check 383 nodes and 424 edges.
+[2020-04-12 18:51:27.870976] Interation 0 Complete
+[2020-04-12 18:51:27.870976] Expanding Nodes | Iteration 1
+[2020-04-12 18:51:27.871972] Converting 383 Codes of ACC to STRING_ID
+[2020-04-12 18:51:27.908873] Converting 5159 Codes of STRING_ID to ACC
+[2020-04-12 18:51:27.923832] Converting 35 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000323872', '9606.ENSP00000366999', '9606.ENSP00000480826', '9606.ENSP00000233596', '9606.ENSP00000054668', '9606.ENSP00000379873', '9606.ENSP00000348527', '9606.ENSP00000176183', '9606.ENSP00000225823', '9606.ENSP00000433277', '9606.ENSP00000409666', '9606.ENSP00000400906', '9606.ENSP00000417378', '9606.ENSP00000304147', '9606.ENSP00000483283', '9606.ENSP00000272298', '9606.ENSP00000452479', '9606.ENSP00000353099', '9606.ENSP00000364801', '9606.ENSP00000459962', '9606.ENSP00000358160', '9606.ENSP00000484658', '9606.ENSP00000374424', '9606.ENSP00000358154', '9606.ENSP00000365402', '9606.ENSP00000482271', '9606.ENSP00000484095', '9606.ENSP00000333277', '9606.ENSP00000484144', '9606.ENSP00000406873', '9606.ENSP00000399168', '9606.ENSP00000352252', '9606.ENSP00000291295', '9606.ENSP00000484638', '9606.ENSP00000391800']
+[2020-04-12 18:51:27.923832] Querying uniprot.org with 35 codes
+[2020-04-12 18:51:30.001172] Conversion Query Complete. To check 5159 nodes and 44637 edges.
+[2020-04-12 18:51:30.041066] Interation 1 Complete
+
+------ thyroid gland ------
+
+Pathway #1
+--------------------
+
+ > PTK2 (Q05397)
+ > RAP1A (P62834)
+
+>>> thyroid gland <<<
+
+Pathway #1
+--------------------
+
+ > PTK2 (Q05397)
+ > RAP1A (P62834)
+
+[2020-04-12 18:51:30.150773] End of Query

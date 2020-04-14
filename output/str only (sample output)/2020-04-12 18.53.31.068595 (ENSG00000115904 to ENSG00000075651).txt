@@ -1,0 +1,13 @@
+[2020-04-12 18:53:31.068595] Beginning Query: Predicting Pathway from ENSG00000115904 to ENSG00000075651 in 2 iters
+[2020-04-12 18:53:31.068595] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:53:31.092532] Opening String-DB
+[2020-04-12 18:53:48.710468] Opening ProteinAtlas-DB
+ > No Entry Found for Q8WYW5
+[2020-04-12 18:53:51.820195] Initial tissues: set()
+ > No Entry Found for Q8WYW5
+
+No common tissues between Q07889 and Q8WYW5
+Q07889: {'thalamus', 'esophagus', 'cerebral cortex', 'lymph node', 'vagina', 'salivary gland', 'duodenum', 'breast', 'amygdala', 'prostate', 'thyroid gland', 'colon', 'appendix', 'placenta', 'midbrain', 'gallbladder', 'skeletal muscle', 'fallopian tube', 'heart muscle', 'lung', 'stomach 1', 'rectum', 'basal ganglia', 'cerebellum', 'liver', 'smooth muscle', 'pons and medulla', 'adipose tissue', 'spleen', 'seminal vesicle', 'tonsil', 'small intestine', 'ovary', 'urinary bladder', 'ductus deferens', 'skin 1', 'endometrium 1', 'thymus', 'hippocampal formation', 'parathyroid gland'}
+Q8WYW5: set()
+
+[2020-04-12 18:53:51.879039] End of Query

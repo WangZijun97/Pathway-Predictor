@@ -1,0 +1,32 @@
+[2020-04-14 06:53:49.356831] Beginning Query: Predicting Pathway from ENSG00000129946 to ENSG00000078061 in 2 iters
+[2020-04-14 06:53:49.356831] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-14 06:53:49.383125] Opening String-DB
+[2020-04-14 06:54:04.222720] Opening ProteinAtlas-DB
+[2020-04-14 06:54:08.466740] Initial tissues: {'filter removed'}
+[2020-04-14 06:54:08.466740] Expanding Nodes | Iteration 0
+[2020-04-14 06:54:08.468734] Converting 2 Codes of ACC to STRING_ID
+[2020-04-14 06:54:08.490793] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['Q96II5']
+[2020-04-14 06:54:08.490793] Querying uniprot.org with 1 codes
+[2020-04-14 06:54:10.819635] Converting 19 Codes of STRING_ID to ACC
+[2020-04-14 06:54:10.842553] Conversion Query Complete. To check 19 nodes and 18 edges.
+[2020-04-14 06:54:10.842553] Conversion Complete. Filtering 18 edges
+[2020-04-14 06:54:10.844576] Interation 0 Complete
+[2020-04-14 06:54:10.847545] Expanding Nodes | Iteration 1
+[2020-04-14 06:54:10.847545] Converting 20 Codes of ACC to STRING_ID
+[2020-04-14 06:54:10.867490] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['Q96II5']
+[2020-04-14 06:54:10.867490] Querying uniprot.org with 1 codes
+[2020-04-14 06:54:12.655907] Converting 1049 Codes of STRING_ID to ACC
+[2020-04-14 06:54:12.676851] Converting 4 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000459962', '9606.ENSP00000379873', '9606.ENSP00000304147', '9606.ENSP00000353099']
+[2020-04-14 06:54:12.676851] Querying uniprot.org with 4 codes
+[2020-04-14 06:54:14.620673] Conversion Query Complete. To check 1049 nodes and 3021 edges.
+[2020-04-14 06:54:14.624685] Conversion Complete. Filtering 3017 edges
+[2020-04-14 06:54:14.626660] Interation 1 Complete
+
+------ filter removed ------
+
+Target Q96II5 cannot be reachedfrom Source P98077
+
+[2020-04-14 06:54:14.636634] End of Query

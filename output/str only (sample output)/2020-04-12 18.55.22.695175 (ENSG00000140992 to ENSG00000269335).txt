@@ -1,0 +1,11 @@
+[2020-04-12 18:55:22.695175] Beginning Query: Predicting Pathway from ENSG00000140992 to ENSG00000269335 in 2 iters
+[2020-04-12 18:55:22.696173] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:55:22.714131] Opening String-DB
+[2020-04-12 18:55:39.182711] Opening ProteinAtlas-DB
+[2020-04-12 18:55:42.059610] Initial tissues: set()
+
+No common tissues between O15530 and Q9Y6K9
+O15530: {'hippocampal formation', 'basal ganglia', 'skeletal muscle', 'parathyroid gland', 'fallopian tube', 'thyroid gland', 'rectum', 'colon', 'cerebral cortex', 'duodenum', 'cerebellum', 'amygdala', 'pons and medulla', 'small intestine', 'kidney', 'pancreas', 'heart muscle', 'salivary gland', 'placenta', 'olfactory region', 'ovary', 'adrenal gland'}
+Q9Y6K9: {'T-cells', 'granulocytes', 'liver', 'bone marrow', 'monocytes'}
+
+[2020-04-12 18:55:42.061606] End of Query

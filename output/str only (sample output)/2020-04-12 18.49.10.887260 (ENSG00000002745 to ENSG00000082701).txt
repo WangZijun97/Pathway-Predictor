@@ -1,0 +1,134 @@
+[2020-04-12 18:49:10.887260] Beginning Query: Predicting Pathway from ENSG00000002745 to ENSG00000082701 in 2 iters
+[2020-04-12 18:49:10.887260] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:49:10.904216] Opening String-DB
+[2020-04-12 18:49:26.607557] Opening ProteinAtlas-DB
+[2020-04-12 18:49:29.395060] Initial tissues: {'skin 1'}
+[2020-04-12 18:49:29.395060] Expanding Nodes | Iteration 0
+[2020-04-12 18:49:29.397056] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:49:29.411018] Converting 200 Codes of STRING_ID to ACC
+[2020-04-12 18:49:29.424037] Conversion Query Complete. To check 200 nodes and 205 edges.
+[2020-04-12 18:49:29.425008] Interation 0 Complete
+[2020-04-12 18:49:29.426005] Expanding Nodes | Iteration 1
+[2020-04-12 18:49:29.427038] Converting 200 Codes of ACC to STRING_ID
+[2020-04-12 18:49:29.456925] Converting 4012 Codes of STRING_ID to ACC
+[2020-04-12 18:49:29.473910] Converting 39 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000480960', '9606.ENSP00000462667', '9606.ENSP00000364801', '9606.ENSP00000445633', '9606.ENSP00000348054', '9606.ENSP00000353099', '9606.ENSP00000348527', '9606.ENSP00000365402', '9606.ENSP00000366962', '9606.ENSP00000366999', '9606.ENSP00000481486', '9606.ENSP00000483283', '9606.ENSP00000409666', '9606.ENSP00000366956', '9606.ENSP00000358154', '9606.ENSP00000244537', '9606.ENSP00000366974', '9606.ENSP00000479461', '9606.ENSP00000443017', '9606.ENSP00000417240', '9606.ENSP00000352252', '9606.ENSP00000347168', '9606.ENSP00000479794', '9606.ENSP00000484658', '9606.ENSP00000251595', '9606.ENSP00000367034', '9606.ENSP00000389455', '9606.ENSP00000348924', '9606.ENSP00000484095', '9606.ENSP00000479106', '9606.ENSP00000321744', '9606.ENSP00000379873', '9606.ENSP00000462355', '9606.ENSP00000399168', '9606.ENSP00000482271', '9606.ENSP00000484638', '9606.ENSP00000333277', '9606.ENSP00000480826', '9606.ENSP00000358160']
+[2020-04-12 18:49:29.473910] Querying uniprot.org with 39 codes
+[2020-04-12 18:49:31.600356] Conversion Query Complete. To check 4012 nodes and 32685 edges.
+[2020-04-12 18:49:31.630274] Interation 1 Complete
+
+------ skin 1 ------
+
+Pathway #1
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD5 (Q13467)
+ > GSK3B (P49841)
+
+Pathway #2
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT1 (P04628)
+ > GSK3B (P49841)
+
+Pathway #3
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT8A (Q9H1J5)
+ > GSK3B (P49841)
+
+Pathway #4
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD2 (Q14332)
+ > GSK3B (P49841)
+
+Pathway #5
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT8B (Q93098)
+ > GSK3B (P49841)
+
+Pathway #6
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD1 (Q9UP38)
+ > GSK3B (P49841)
+
+Pathway #7
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT3A (P56704)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #1
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD5 (Q13467)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #2
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT1 (P04628)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #3
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT8A (Q9H1J5)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #4
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD2 (Q14332)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #5
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT8B (Q93098)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #6
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > FZD1 (Q9UP38)
+ > GSK3B (P49841)
+
+>>> skin 1 <<<
+
+Pathway #7
+--------------------
+
+ > WNT16 (Q9UBV4)
+ > WNT3A (P56704)
+ > GSK3B (P49841)
+
+[2020-04-12 18:49:31.731966] End of Query

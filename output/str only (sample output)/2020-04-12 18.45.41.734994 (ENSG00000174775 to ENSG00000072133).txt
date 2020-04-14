@@ -1,0 +1,11 @@
+[2020-04-12 18:45:41.734994] Beginning Query: Predicting Pathway from ENSG00000174775 to ENSG00000072133 in 2 iters
+[2020-04-12 18:45:41.734994] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:45:41.751949] Opening String-DB
+[2020-04-12 18:45:57.902849] Opening ProteinAtlas-DB
+[2020-04-12 18:46:00.660388] Initial tissues: set()
+
+No common tissues between P01112 and Q9UK32
+P01112: {'spinal cord', 'heart muscle', 'vagina', 'pons and medulla', 'amygdala', 'midbrain', 'breast', 'esophagus', 'hypothalamus', 'skin 1', 'tongue', 'cerebral cortex', 'basal ganglia', 'cerebellum', 'skeletal muscle', 'hippocampal formation'}
+Q9UK32: {'seminal vesicle', 'ductus deferens'}
+
+[2020-04-12 18:46:00.661366] End of Query

@@ -1,0 +1,32 @@
+[2020-04-14 07:00:27.824325] Beginning Query: Predicting Pathway from ENSG00000104814 to ENSG00000126767 in 2 iters
+[2020-04-14 07:00:27.824325] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-14 07:00:27.849227] Opening String-DB
+[2020-04-14 07:00:42.321228] Opening ProteinAtlas-DB
+[2020-04-14 07:00:44.752281] Initial tissues: {'filter removed'}
+[2020-04-14 07:00:44.752281] Expanding Nodes | Iteration 0
+[2020-04-14 07:00:44.754323] Converting 2 Codes of ACC to STRING_ID
+[2020-04-14 07:00:44.776650] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['K7ERT2']
+[2020-04-14 07:00:44.776650] Querying uniprot.org with 1 codes
+[2020-04-14 07:00:46.517750] Converting 12 Codes of STRING_ID to ACC
+[2020-04-14 07:00:46.538264] Conversion Query Complete. To check 12 nodes and 11 edges.
+[2020-04-14 07:00:46.539235] Conversion Complete. Filtering 11 edges
+[2020-04-14 07:00:46.540265] Iteration 0 Complete
+[2020-04-14 07:00:46.543236] Expanding Nodes | Iteration 1
+[2020-04-14 07:00:46.543236] Converting 13 Codes of ACC to STRING_ID
+[2020-04-14 07:00:46.566195] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['K7ERT2']
+[2020-04-14 07:00:46.566195] Querying uniprot.org with 1 codes
+[2020-04-14 07:00:48.294473] Converting 887 Codes of STRING_ID to ACC
+[2020-04-14 07:00:48.314393] Converting 1 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000379873']
+[2020-04-14 07:00:48.314393] Querying uniprot.org with 1 codes
+[2020-04-14 07:00:49.993247] Conversion Query Complete. To check 887 nodes and 1716 edges.
+[2020-04-14 07:00:49.994215] Conversion Complete. Filtering 1715 edges
+[2020-04-14 07:00:49.996211] Iteration 1 Complete
+
+------ filter removed ------
+
+Target P19419 cannot be reachedfrom Source K7ERT2
+
+[2020-04-14 07:00:50.002352] End of Query

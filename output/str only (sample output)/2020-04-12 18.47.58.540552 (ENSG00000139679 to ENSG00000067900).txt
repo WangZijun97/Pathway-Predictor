@@ -1,0 +1,41 @@
+[2020-04-12 18:47:58.540552] Beginning Query: Predicting Pathway from ENSG00000139679 to ENSG00000067900 in 2 iters
+[2020-04-12 18:47:58.541553] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:47:58.558474] Opening String-DB
+[2020-04-12 18:48:14.823141] Opening ProteinAtlas-DB
+[2020-04-12 18:48:17.634834] Initial tissues: {'vagina'}
+[2020-04-12 18:48:17.634834] Expanding Nodes | Iteration 0
+[2020-04-12 18:48:17.635830] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:48:17.650824] Converting 219 Codes of STRING_ID to ACC
+[2020-04-12 18:48:17.663971] Converting 2 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000323872', '9606.ENSP00000054668']
+[2020-04-12 18:48:17.663971] Querying uniprot.org with 2 codes
+[2020-04-12 18:48:19.355053] Conversion Query Complete. To check 219 nodes and 218 edges.
+[2020-04-12 18:48:19.356051] Interation 0 Complete
+[2020-04-12 18:48:19.357050] Expanding Nodes | Iteration 1
+[2020-04-12 18:48:19.358046] Converting 217 Codes of ACC to STRING_ID
+[2020-04-12 18:48:19.391955] Converting 3111 Codes of STRING_ID to ACC
+[2020-04-12 18:48:19.406946] Converting 16 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000272298', '9606.ENSP00000399168', '9606.ENSP00000323872', '9606.ENSP00000379873', '9606.ENSP00000353099', '9606.ENSP00000406873', '9606.ENSP00000391800', '9606.ENSP00000433157', '9606.ENSP00000348527', '9606.ENSP00000364801', '9606.ENSP00000365402', '9606.ENSP00000054668', '9606.ENSP00000233596', '9606.ENSP00000176183', '9606.ENSP00000459962', '9606.ENSP00000291295']
+[2020-04-12 18:48:19.406946] Querying uniprot.org with 16 codes
+[2020-04-12 18:48:21.479624] Conversion Query Complete. To check 3111 nodes and 43374 edges.
+[2020-04-12 18:48:21.514530] Interation 1 Complete
+
+------ vagina ------
+
+Pathway #1
+--------------------
+
+ > LPAR6 (P43657)
+ > F2RL2 (O00254)
+ > ROCK1 (Q13464)
+
+>>> vagina <<<
+
+Pathway #1
+--------------------
+
+ > LPAR6 (P43657)
+ > F2RL2 (O00254)
+ > ROCK1 (Q13464)
+
+[2020-04-12 18:48:21.609277] End of Query

@@ -1,0 +1,585 @@
+[2020-04-12 18:55:43.061787] Beginning Query: Predicting Pathway from ENSG00000005961 to ENSG00000067560 in 2 iters
+[2020-04-12 18:55:43.062800] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-12 18:55:43.083756] Opening String-DB
+[2020-04-12 18:55:59.562335] Opening ProteinAtlas-DB
+[2020-04-12 18:56:02.417858] Initial tissues: {'granulocytes', 'spleen', 'epididymis', 'bone marrow'}
+[2020-04-12 18:56:02.418854] Expanding Nodes | Iteration 0
+[2020-04-12 18:56:02.419861] Converting 2 Codes of ACC to STRING_ID
+[2020-04-12 18:56:02.437837] Converting 506 Codes of STRING_ID to ACC
+[2020-04-12 18:56:02.451799] Conversion Query Complete. To check 506 nodes and 539 edges.
+[2020-04-12 18:56:02.452763] Interation 0 Complete
+[2020-04-12 18:56:02.452763] Expanding Nodes | Iteration 1
+[2020-04-12 18:56:02.453761] Converting 506 Codes of ACC to STRING_ID
+[2020-04-12 18:56:02.466726] Converting 13 Codes of ACC to STRING_ID via Uniprot
+ > ['Q9C0H5', 'O75044', 'Q8N4T4', 'A8MVX0', 'Q9HAT0', 'Q96QD5', 'Q3KRB8', 'Q6P5Z2', 'Q15058', 'Q5VT97', 'A6NGQ3', 'Q6ZW31', 'A5YM69']
+[2020-04-12 18:56:02.466726] Querying uniprot.org with 13 codes
+[2020-04-12 18:56:04.325055] Converting 6067 Codes of STRING_ID to ACC
+[2020-04-12 18:56:04.342038] Converting 59 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000481486', '9606.ENSP00000366956', '9606.ENSP00000347168', '9606.ENSP00000399168', '9606.ENSP00000400088', '9606.ENSP00000389455', '9606.ENSP00000353099', '9606.ENSP00000358160', '9606.ENSP00000366999', '9606.ENSP00000482431', '9606.ENSP00000054668', '9606.ENSP00000459962', '9606.ENSP00000333277', '9606.ENSP00000326519', '9606.ENSP00000352119', '9606.ENSP00000480826', '9606.ENSP00000484638', '9606.ENSP00000391800', '9606.ENSP00000348054', '9606.ENSP00000251595', '9606.ENSP00000479106', '9606.ENSP00000409666', '9606.ENSP00000462355', '9606.ENSP00000366974', '9606.ENSP00000364801', '9606.ENSP00000479461', '9606.ENSP00000176183', '9606.ENSP00000479794', '9606.ENSP00000358155', '9606.ENSP00000352252', '9606.ENSP00000452479', '9606.ENSP00000233596', '9606.ENSP00000231668', '9606.ENSP00000379873', '9606.ENSP00000484095', '9606.ENSP00000443017', '9606.ENSP00000303373', '9606.ENSP00000323872', '9606.ENSP00000244537', '9606.ENSP00000321744', '9606.ENSP00000483283', '9606.ENSP00000366962', '9606.ENSP00000304147', '9606.ENSP00000352627', '9606.ENSP00000351589', '9606.ENSP00000482271', '9606.ENSP00000417240', '9606.ENSP00000480960', '9606.ENSP00000445633', '9606.ENSP00000254810', '9606.ENSP00000462667', '9606.ENSP00000348527', '9606.ENSP00000406873', '9606.ENSP00000365402', '9606.ENSP00000346509', '9606.ENSP00000484658', '9606.ENSP00000367034', '9606.ENSP00000348924', '9606.ENSP00000358154']
+[2020-04-12 18:56:04.342038] Querying uniprot.org with 59 codes
+[2020-04-12 18:56:06.085920] Conversion Query Complete. To check 6067 nodes and 64890 edges.
+[2020-04-12 18:56:06.150723] Interation 1 Complete
+
+------ granulocytes ------
+
+Pathway #1
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB3 (P05106)
+ > RHOA (P61586)
+
+Pathway #2
+--------------------
+
+ > ITGA2B (P08514)
+ > MAPK1 (P28482)
+ > RHOA (P61586)
+
+Pathway #3
+--------------------
+
+ > ITGA2B (P08514)
+ > ARF6 (P62330)
+ > RHOA (P61586)
+
+Pathway #4
+--------------------
+
+ > ITGA2B (P08514)
+ > PTK2 (Q05397)
+ > RHOA (P61586)
+
+Pathway #5
+--------------------
+
+ > ITGA2B (P08514)
+ > CSK (P41240)
+ > RHOA (P61586)
+
+Pathway #6
+--------------------
+
+ > ITGA2B (P08514)
+ > PIK3CA (P42336)
+ > RHOA (P61586)
+
+Pathway #7
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB1 (P05556)
+ > RHOA (P61586)
+
+Pathway #8
+--------------------
+
+ > ITGA2B (P08514)
+ > IL2RG (P31785)
+ > RHOA (P61586)
+
+Pathway #9
+--------------------
+
+ > ITGA2B (P08514)
+ > HRAS (P01112)
+ > RHOA (P61586)
+
+Pathway #10
+--------------------
+
+ > ITGA2B (P08514)
+ > JAK1 (P23458)
+ > RHOA (P61586)
+
+Pathway #11
+--------------------
+
+ > ITGA2B (P08514)
+ > PTK2B (Q14289)
+ > RHOA (P61586)
+
+Pathway #12
+--------------------
+
+ > ITGA2B (P08514)
+ > KRAS (P01116)
+ > RHOA (P61586)
+
+Pathway #13
+--------------------
+
+ > ITGA2B (P08514)
+ > JAK3 (P52333)
+ > RHOA (P61586)
+
+Pathway #14
+--------------------
+
+ > ITGA2B (P08514)
+ > LCK (P06239)
+ > RHOA (P61586)
+
+Pathway #15
+--------------------
+
+ > ITGA2B (P08514)
+ > IQGAP1 (P46940)
+ > RHOA (P61586)
+
+Pathway #16
+--------------------
+
+ > ITGA2B (P08514)
+ > VCL (P18206)
+ > RHOA (P61586)
+
+Pathway #17
+--------------------
+
+ > ITGA2B (P08514)
+ > MAPK3 (P27361)
+ > RHOA (P61586)
+
+Pathway #18
+--------------------
+
+ > ITGA2B (P08514)
+ > VTN (P04004)
+ > RHOA (P61586)
+
+Pathway #19
+--------------------
+
+ > ITGA2B (P08514)
+ > AKT1 (P31749)
+ > RHOA (P61586)
+
+Pathway #20
+--------------------
+
+ > ITGA2B (P08514)
+ > NRAS (P01111)
+ > RHOA (P61586)
+
+Pathway #21
+--------------------
+
+ > ITGA2B (P08514)
+ > SOS1 (Q07889)
+ > RHOA (P61586)
+
+Pathway #22
+--------------------
+
+ > ITGA2B (P08514)
+ > PIK3R1 (P27986)
+ > RHOA (P61586)
+
+Pathway #23
+--------------------
+
+ > ITGA2B (P08514)
+ > RAF1 (P04049)
+ > RHOA (P61586)
+
+Pathway #24
+--------------------
+
+ > ITGA2B (P08514)
+ > TLN1 (Q9Y490)
+ > RHOA (P61586)
+
+Pathway #25
+--------------------
+
+ > ITGA2B (P08514)
+ > FYN (P06241)
+ > RHOA (P61586)
+
+Pathway #26
+--------------------
+
+ > ITGA2B (P08514)
+ > BCAR1 (P56945)
+ > RHOA (P61586)
+
+Pathway #27
+--------------------
+
+ > ITGA2B (P08514)
+ > SRC (P12931)
+ > RHOA (P61586)
+
+Pathway #28
+--------------------
+
+ > ITGA2B (P08514)
+ > PXN (P49023)
+ > RHOA (P61586)
+
+Pathway #29
+--------------------
+
+ > ITGA2B (P08514)
+ > SHC1 (P29353)
+ > RHOA (P61586)
+
+Pathway #30
+--------------------
+
+ > ITGA2B (P08514)
+ > CRK (P46108)
+ > RHOA (P61586)
+
+Pathway #31
+--------------------
+
+ > ITGA2B (P08514)
+ > PTPN1 (P18031)
+ > RHOA (P61586)
+
+Pathway #32
+--------------------
+
+ > ITGA2B (P08514)
+ > RAP1A (P62834)
+ > RHOA (P61586)
+
+Pathway #33
+--------------------
+
+ > ITGA2B (P08514)
+ > SYK (P43405)
+ > RHOA (P61586)
+
+Pathway #34
+--------------------
+
+ > ITGA2B (P08514)
+ > PDPK1 (O15530)
+ > RHOA (P61586)
+
+Pathway #35
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB7 (P26010)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #1
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB3 (P05106)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #2
+--------------------
+
+ > ITGA2B (P08514)
+ > MAPK1 (P28482)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #3
+--------------------
+
+ > ITGA2B (P08514)
+ > ARF6 (P62330)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #4
+--------------------
+
+ > ITGA2B (P08514)
+ > PTK2 (Q05397)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #5
+--------------------
+
+ > ITGA2B (P08514)
+ > CSK (P41240)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #6
+--------------------
+
+ > ITGA2B (P08514)
+ > PIK3CA (P42336)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #7
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB1 (P05556)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #8
+--------------------
+
+ > ITGA2B (P08514)
+ > IL2RG (P31785)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #9
+--------------------
+
+ > ITGA2B (P08514)
+ > HRAS (P01112)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #10
+--------------------
+
+ > ITGA2B (P08514)
+ > JAK1 (P23458)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #11
+--------------------
+
+ > ITGA2B (P08514)
+ > PTK2B (Q14289)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #12
+--------------------
+
+ > ITGA2B (P08514)
+ > KRAS (P01116)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #13
+--------------------
+
+ > ITGA2B (P08514)
+ > JAK3 (P52333)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #14
+--------------------
+
+ > ITGA2B (P08514)
+ > LCK (P06239)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #15
+--------------------
+
+ > ITGA2B (P08514)
+ > IQGAP1 (P46940)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #16
+--------------------
+
+ > ITGA2B (P08514)
+ > VCL (P18206)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #17
+--------------------
+
+ > ITGA2B (P08514)
+ > MAPK3 (P27361)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #18
+--------------------
+
+ > ITGA2B (P08514)
+ > VTN (P04004)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #19
+--------------------
+
+ > ITGA2B (P08514)
+ > AKT1 (P31749)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #20
+--------------------
+
+ > ITGA2B (P08514)
+ > NRAS (P01111)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #21
+--------------------
+
+ > ITGA2B (P08514)
+ > SOS1 (Q07889)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #22
+--------------------
+
+ > ITGA2B (P08514)
+ > PIK3R1 (P27986)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #23
+--------------------
+
+ > ITGA2B (P08514)
+ > RAF1 (P04049)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #24
+--------------------
+
+ > ITGA2B (P08514)
+ > TLN1 (Q9Y490)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #25
+--------------------
+
+ > ITGA2B (P08514)
+ > FYN (P06241)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #26
+--------------------
+
+ > ITGA2B (P08514)
+ > BCAR1 (P56945)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #27
+--------------------
+
+ > ITGA2B (P08514)
+ > SRC (P12931)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #28
+--------------------
+
+ > ITGA2B (P08514)
+ > PXN (P49023)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #29
+--------------------
+
+ > ITGA2B (P08514)
+ > SHC1 (P29353)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #30
+--------------------
+
+ > ITGA2B (P08514)
+ > CRK (P46108)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #31
+--------------------
+
+ > ITGA2B (P08514)
+ > PTPN1 (P18031)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #32
+--------------------
+
+ > ITGA2B (P08514)
+ > RAP1A (P62834)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #33
+--------------------
+
+ > ITGA2B (P08514)
+ > SYK (P43405)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #34
+--------------------
+
+ > ITGA2B (P08514)
+ > PDPK1 (O15530)
+ > RHOA (P61586)
+
+>>> granulocytes <<<
+
+Pathway #35
+--------------------
+
+ > ITGA2B (P08514)
+ > ITGB7 (P26010)
+ > RHOA (P61586)
+
+[2020-04-12 18:56:06.419694] End of Query

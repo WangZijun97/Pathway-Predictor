@@ -1,0 +1,32 @@
+[2020-04-14 07:03:13.728651] Beginning Query: Predicting Pathway from ENSG00000115904 to ENSG00000075651 in 2 iters
+[2020-04-14 07:03:13.728651] Converting 2 Codes of ENSEMBL_ID to ACC
+[2020-04-14 07:03:13.754551] Opening String-DB
+[2020-04-14 07:03:28.172822] Opening ProteinAtlas-DB
+[2020-04-14 07:03:30.606173] Initial tissues: {'filter removed'}
+[2020-04-14 07:03:30.606173] Expanding Nodes | Iteration 0
+[2020-04-14 07:03:30.608191] Converting 2 Codes of ACC to STRING_ID
+[2020-04-14 07:03:30.630145] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['Q8WYW5']
+[2020-04-14 07:03:30.630145] Querying uniprot.org with 1 codes
+[2020-04-14 07:03:32.750550] Converting 274 Codes of STRING_ID to ACC
+[2020-04-14 07:03:32.772464] Conversion Query Complete. To check 274 nodes and 273 edges.
+[2020-04-14 07:03:32.773468] Conversion Complete. Filtering 273 edges
+[2020-04-14 07:03:32.775455] Iteration 0 Complete
+[2020-04-14 07:03:32.777704] Expanding Nodes | Iteration 1
+[2020-04-14 07:03:32.778671] Converting 275 Codes of ACC to STRING_ID
+[2020-04-14 07:03:32.799615] Converting 1 Codes of ACC to STRING_ID via Uniprot
+ > ['Q8WYW5']
+[2020-04-14 07:03:32.799615] Querying uniprot.org with 1 codes
+[2020-04-14 07:03:34.558568] Converting 4706 Codes of STRING_ID to ACC
+[2020-04-14 07:03:34.580513] Converting 20 Codes of STRING_ID to ACC via Uniprot
+ > ['9606.ENSP00000391800', '9606.ENSP00000406873', '9606.ENSP00000379873', '9606.ENSP00000405575', '9606.ENSP00000176183', '9606.ENSP00000304147', '9606.ENSP00000353874', '9606.ENSP00000240618', '9606.ENSP00000400906', '9606.ENSP00000417378', '9606.ENSP00000417240', '9606.ENSP00000054668', '9606.ENSP00000399168', '9606.ENSP00000459962', '9606.ENSP00000348527', '9606.ENSP00000233596', '9606.ENSP00000353099', '9606.ENSP00000323872', '9606.ENSP00000365402', '9606.ENSP00000364801']
+[2020-04-14 07:03:34.580513] Querying uniprot.org with 20 codes
+[2020-04-14 07:03:36.379682] Conversion Query Complete. To check 4706 nodes and 31229 edges.
+[2020-04-14 07:03:36.399603] Conversion Complete. Filtering 31141 edges
+[2020-04-14 07:03:36.418553] Iteration 1 Complete
+
+------ filter removed ------
+
+Target Q8WYW5 cannot be reachedfrom Source Q07889
+
+[2020-04-14 07:03:36.485680] End of Query
