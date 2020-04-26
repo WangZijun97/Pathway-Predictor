@@ -76,7 +76,8 @@ tissuetypesheaders = list(map(lambda x: encodecoltissue(x), tissuetypes))
 
 
 #using proteinatlas tissue RNA implementation	
-def gettissues(_logger, protein, db, threshold = THRESHOLD): #uniprot!!!
+"""
+def gettissues(_logger, protein, db): #uniprot!!!
 	#_logger.log("[{0}] Getting Tissue Types of {1} with NX >= {2}".format(datetime.datetime.now(), protein, threshold))
 	
 	if protein not in db:
@@ -93,11 +94,12 @@ def gettissues(_logger, protein, db, threshold = THRESHOLD): #uniprot!!!
 			tissueset.add(decodecol(col))
 			
 	return tissueset
+	"""
 	
 	
-	
-#using proteinatlas protein expression implementation	
-def gettissues_protein(_logger, protein, db): #ENSMBL_ID fml!!!
+#using proteinatlas protein expression implementation
+#23 Apr: Due to update in tissue RNA implementation data format, this function works both ways	
+def gettissues(_logger, protein, db): #ENSMBL_ID
 	#_logger.log("[{0}] Getting Tissue Types of {1} with NX >= {2}".format(datetime.datetime.now(), protein, threshold))
 	
 	if protein not in db:

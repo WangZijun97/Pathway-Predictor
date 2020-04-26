@@ -1,0 +1,170 @@
+[2020-04-27 02.53.34.843144] Q14344 to P35222 (900.0,1.0)
+
+--- Predicted pathways between Q14344 and P35222 ---
+
+Pathways in spleen:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in tongue:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in bone marrow:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in small intestine:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in ductus deferens:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in kidney:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in ovary:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in parathyroid gland:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in spinal cord:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in urinary bladder:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in granulocytes:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in adipose tissue:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in amygdala:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in endometrium 1:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in appendix:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in fallopian tube:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in testis:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in esophagus:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in lymph node:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in vagina:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in thalamus:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in midbrain:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in thymus:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in pancreas:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in adrenal gland:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in retina:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in NK-cells:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in basal ganglia:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in hippocampal formation:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in tonsil:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in B-cells:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in duodenum:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in smooth muscle:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in liver:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in heart muscle:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in skin 1:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in dendritic cells:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in gallbladder:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in cerebellum:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in colon:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in placenta:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in thyroid gland:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in cerebral cortex:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in epididymis:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in lung:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in seminal vesicle:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in prostate:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in breast:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in olfactory region:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in salivary gland:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in skeletal muscle:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in total PBMC:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in hypothalamus:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in rectum:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in monocytes:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in pons and medulla:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in T-cells:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in stomach 1:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+Pathways in corpus callosum:
+ >> #1:	Q14344	P35222		GNA13	CTNNB1
+
+
+--- Prediction Analysis Results ---
+
+ > length: [1]
+ > n_tissues: 59
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 61646
+ > expected path present: False
+ > expected protein presence:
+    @ Q14344: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q12802: 
+    @ P61586: 
+    @ Q13464: 
+    @ P35222: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q14344', 'Q12802'): 
+    @ ('Q14344', 'P61586'): 
+    @ ('Q14344', 'Q13464'): 
+    @ ('Q14344', 'P35222'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q12802', 'P61586'): 
+    @ ('Q12802', 'Q13464'): 
+    @ ('Q12802', 'P35222'): 
+    @ ('P61586', 'Q13464'): 
+    @ ('P61586', 'P35222'): 
+    @ ('Q13464', 'P35222'): 
+    @ ('Q14344', 'Q12802', 'P61586'): 
+    @ ('Q14344', 'Q12802', 'Q13464'): 
+    @ ('Q14344', 'Q12802', 'P35222'): 
+    @ ('Q14344', 'P61586', 'Q13464'): 
+    @ ('Q14344', 'P61586', 'P35222'): 
+    @ ('Q14344', 'Q13464', 'P35222'): 
+    @ ('Q12802', 'P61586', 'Q13464'): 
+    @ ('Q12802', 'P61586', 'P35222'): 
+    @ ('Q12802', 'Q13464', 'P35222'): 
+    @ ('P61586', 'Q13464', 'P35222'): 
+    @ ('Q14344', 'Q12802', 'P61586', 'Q13464'): 
+    @ ('Q14344', 'Q12802', 'P61586', 'P35222'): 
+    @ ('Q14344', 'Q12802', 'Q13464', 'P35222'): 
+    @ ('Q14344', 'P61586', 'Q13464', 'P35222'): 
+    @ ('Q12802', 'P61586', 'Q13464', 'P35222'): 
+    @ ('Q14344', 'Q12802', 'P61586', 'Q13464', 'P35222'): 
+ > expected protein position in pathway:
+    @ Q14344: {0}
+    @ Q12802: 
+    @ P61586: 
+    @ Q13464: 
+    @ P35222: {1}

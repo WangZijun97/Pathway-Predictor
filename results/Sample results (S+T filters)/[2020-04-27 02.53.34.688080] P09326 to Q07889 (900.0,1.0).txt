@@ -1,0 +1,298 @@
+[2020-04-27 02.53.34.688080] P09326 to Q07889 (900.0,1.0)
+
+--- Predicted pathways between P09326 and Q07889 ---
+
+Pathways in spleen:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in tongue:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in bone marrow:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in small intestine:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in ductus deferens:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+Pathways in kidney:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in ovary:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in spinal cord:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in urinary bladder:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in granulocytes:
+ >> #1:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+Pathways in adipose tissue:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in amygdala:
+Pathways in endometrium 1:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in appendix:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in fallopian tube:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in testis:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in esophagus:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in lymph node:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in vagina:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in midbrain:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in thymus:
+ >> #1:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+Pathways in pancreas:
+ >> #1:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #2:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #3:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in adrenal gland:
+ >> #1:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #2:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #3:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in retina:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in NK-cells:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+ >> #3:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #4:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #5:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+Pathways in hippocampal formation:
+Pathways in tonsil:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in B-cells:
+Pathways in duodenum:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in smooth muscle:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+Pathways in liver:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in heart muscle:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in skin 1:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in dendritic cells:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+Pathways in gallbladder:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in colon:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in placenta:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in thyroid gland:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in epididymis:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in lung:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in seminal vesicle:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in prostate:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in breast:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in salivary gland:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in skeletal muscle:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in hypothalamus:
+Pathways in rectum:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #5:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+Pathways in monocytes:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+Pathways in T-cells:
+ >> #1:	P09326	Q9BZW8	P06241	Q07889		CD48	CD244	FYN	SOS1
+ >> #2:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #3:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #4:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+Pathways in stomach 1:
+ >> #1:	P09326	P06729	P06239	Q07889		CD48	CD2	LCK	SOS1
+ >> #2:	P09326	P06729	P42336	Q07889		CD48	CD2	PIK3CA	SOS1
+ >> #3:	P09326	P06729	P27986	Q07889		CD48	CD2	PIK3R1	SOS1
+ >> #4:	P09326	P06729	P43405	Q07889		CD48	CD2	SYK	SOS1
+
+
+--- Prediction Analysis Results ---
+
+ > length: [3]
+ > n_tissues: 50
+ > largest tissue pathway set: 5
+ > smallest tissue pathway set: 0
+ > FP <= E: 196
+ > expected path present: False
+ > expected protein presence:
+    @ P09326: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'skin 1', 'liver'}
+    @ Q9BZW8: {'spleen', 'bone marrow', 'small intestine', 'ductus deferens', 'ovary', 'urinary bladder', 'spinal cord', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'esophagus', 'lymph node', 'midbrain', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'lung', 'prostate', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'T-cells', 'liver'}
+    @ O43561: 
+    @ P62993: 
+    @ Q07889: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'skin 1', 'liver'}
+    @ ('P09326', 'Q9BZW8'): {'spleen', 'bone marrow', 'small intestine', 'ductus deferens', 'ovary', 'urinary bladder', 'spinal cord', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'esophagus', 'lymph node', 'midbrain', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'lung', 'prostate', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'T-cells', 'liver'}
+    @ ('P09326', 'O43561'): 
+    @ ('P09326', 'P62993'): 
+    @ ('P09326', 'Q07889'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'T-cells', 'stomach 1'}
+    @ ('Q9BZW8', 'O43561'): 
+    @ ('Q9BZW8', 'P62993'): 
+    @ ('Q9BZW8', 'Q07889'): {'spleen', 'bone marrow', 'small intestine', 'ductus deferens', 'ovary', 'urinary bladder', 'spinal cord', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'esophagus', 'lymph node', 'midbrain', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'lung', 'prostate', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'T-cells', 'liver'}
+    @ ('O43561', 'P62993'): 
+    @ ('O43561', 'Q07889'): 
+    @ ('P62993', 'Q07889'): 
+    @ ('P09326', 'Q9BZW8', 'O43561'): 
+    @ ('P09326', 'Q9BZW8', 'P62993'): 
+    @ ('P09326', 'Q9BZW8', 'Q07889'): {'spleen', 'bone marrow', 'small intestine', 'ductus deferens', 'ovary', 'urinary bladder', 'spinal cord', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'esophagus', 'lymph node', 'midbrain', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'colon', 'placenta', 'lung', 'prostate', 'salivary gland', 'skeletal muscle', 'rectum', 'monocytes', 'T-cells', 'liver'}
+    @ ('P09326', 'O43561', 'P62993'): 
+    @ ('P09326', 'O43561', 'Q07889'): 
+    @ ('P09326', 'P62993', 'Q07889'): 
+    @ ('Q9BZW8', 'O43561', 'P62993'): 
+    @ ('Q9BZW8', 'O43561', 'Q07889'): 
+    @ ('Q9BZW8', 'P62993', 'Q07889'): 
+    @ ('O43561', 'P62993', 'Q07889'): 
+    @ ('P09326', 'Q9BZW8', 'O43561', 'P62993'): 
+    @ ('P09326', 'Q9BZW8', 'O43561', 'Q07889'): 
+    @ ('P09326', 'Q9BZW8', 'P62993', 'Q07889'): 
+    @ ('P09326', 'O43561', 'P62993', 'Q07889'): 
+    @ ('Q9BZW8', 'O43561', 'P62993', 'Q07889'): 
+    @ ('P09326', 'Q9BZW8', 'O43561', 'P62993', 'Q07889'): 
+ > expected protein position in pathway:
+    @ P09326: {0}
+    @ Q9BZW8: {1}
+    @ O43561: 
+    @ P62993: 
+    @ Q07889: {3}

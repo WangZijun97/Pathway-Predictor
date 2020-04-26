@@ -1,0 +1,184 @@
+[2020-04-27 02.53.34.614268] P01112 to Q9UK32 (900.0,1.0)
+
+--- Predicted pathways between P01112 and Q9UK32 ---
+
+Pathways in small intestine:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in ductus deferens:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in kidney:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in ovary:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in parathyroid gland:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in spinal cord:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in urinary bladder:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in amygdala:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in endometrium 1:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in appendix:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in fallopian tube:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in testis:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in esophagus:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in vagina:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in thalamus:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in midbrain:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in pancreas:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in adrenal gland:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in retina:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in basal ganglia:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in hippocampal formation:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in B-cells:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in duodenum:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in smooth muscle:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in heart muscle:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in skin 1:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in gallbladder:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in cerebellum:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in colon:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in thyroid gland:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in cerebral cortex:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in epididymis:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in seminal vesicle:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in prostate:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in breast:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in olfactory region:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in salivary gland:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in skeletal muscle:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in hypothalamus:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in rectum:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in pons and medulla:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in T-cells:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in stomach 1:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+Pathways in corpus callosum:
+ >> #1:	P01112	P28482	Q9UK32		HRAS	MAPK1	RPS6KA6
+ >> #2:	P01112	P27361	Q9UK32		HRAS	MAPK3	RPS6KA6
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 44
+ > largest tissue pathway set: 2
+ > smallest tissue pathway set: 2
+ > FP <= E: 20642
+ > expected path present: False
+ > expected protein presence:
+    @ P01112: {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ P04049: 
+    @ Q02750: 
+    @ P28482: {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ Q9UK32: {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('P01112', 'P04049'): 
+    @ ('P01112', 'Q02750'): 
+    @ ('P01112', 'P28482'): {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P01112', 'Q9UK32'): {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P04049', 'Q02750'): 
+    @ ('P04049', 'P28482'): 
+    @ ('P04049', 'Q9UK32'): 
+    @ ('Q02750', 'P28482'): 
+    @ ('Q02750', 'Q9UK32'): 
+    @ ('P28482', 'Q9UK32'): {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P01112', 'P04049', 'Q02750'): 
+    @ ('P01112', 'P04049', 'P28482'): 
+    @ ('P01112', 'P04049', 'Q9UK32'): 
+    @ ('P01112', 'Q02750', 'P28482'): 
+    @ ('P01112', 'Q02750', 'Q9UK32'): 
+    @ ('P01112', 'P28482', 'Q9UK32'): {'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'vagina', 'thalamus', 'midbrain', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P04049', 'Q02750', 'P28482'): 
+    @ ('P04049', 'Q02750', 'Q9UK32'): 
+    @ ('P04049', 'P28482', 'Q9UK32'): 
+    @ ('Q02750', 'P28482', 'Q9UK32'): 
+    @ ('P01112', 'P04049', 'Q02750', 'P28482'): 
+    @ ('P01112', 'P04049', 'Q02750', 'Q9UK32'): 
+    @ ('P01112', 'P04049', 'P28482', 'Q9UK32'): 
+    @ ('P01112', 'Q02750', 'P28482', 'Q9UK32'): 
+    @ ('P04049', 'Q02750', 'P28482', 'Q9UK32'): 
+    @ ('P01112', 'P04049', 'Q02750', 'P28482', 'Q9UK32'): 
+ > expected protein position in pathway:
+    @ P01112: {0}
+    @ P04049: 
+    @ Q02750: 
+    @ P28482: {1}
+    @ Q9UK32: {2}

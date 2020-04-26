@@ -1,0 +1,132 @@
+[2020-04-27 02.53.34.672103] Q9UBV4 to P49841 (900.0,1.0)
+
+--- Predicted pathways between Q9UBV4 and P49841 ---
+
+Pathways in spleen:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+ >> #4:	Q9UBV4	P04628	P49841		WNT16	WNT1	GSK3B
+Pathways in prostate:
+ >> #1:	Q9UBV4	P56704	P49841		WNT16	WNT3A	GSK3B
+ >> #2:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #3:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #4:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in breast:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in lymph node:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	P04628	P49841		WNT16	WNT1	GSK3B
+Pathways in skin 1:
+ >> #1:	Q9UBV4	P56704	P49841		WNT16	WNT3A	GSK3B
+ >> #2:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #3:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #4:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in vagina:
+ >> #1:	Q9UBV4	P56704	P49841		WNT16	WNT3A	GSK3B
+ >> #2:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #3:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #4:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in ductus deferens:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in colon:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in spinal cord:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in cerebral cortex:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+ >> #4:	Q9UBV4	P04628	P49841		WNT16	WNT1	GSK3B
+Pathways in epididymis:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in pons and medulla:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in basal ganglia:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+ >> #4:	Q9UBV4	P04628	P49841		WNT16	WNT1	GSK3B
+ >> #5:	Q9UBV4	Q9H1J5	P49841		WNT16	WNT8A	GSK3B
+Pathways in seminal vesicle:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in endometrium 1:
+ >> #1:	Q9UBV4	Q9UP38	P49841		WNT16	FZD1	GSK3B
+ >> #2:	Q9UBV4	Q14332	P49841		WNT16	FZD2	GSK3B
+ >> #3:	Q9UBV4	Q13467	P49841		WNT16	FZD5	GSK3B
+Pathways in B-cells:
+ >> #1:	Q9UBV4	P56703	P35222	P49841		WNT16	WNT3	CTNNB1	GSK3B
+ >> #2:	Q9UBV4	Q9NPG1	Q9NPB6	P49841		WNT16	FZD3	PARD6A	GSK3B
+ >> #3:	Q9UBV4	Q9NPG1	Q92997	P49841		WNT16	FZD3	DVL3	GSK3B
+ >> #4:	Q9UBV4	O60353	Q92997	P49841		WNT16	FZD6	DVL3	GSK3B
+ >> #5:	Q9UBV4	Q9NPG1	O14640	P49841		WNT16	FZD3	DVL1	GSK3B
+ >> #6:	Q9UBV4	O60353	O14640	P49841		WNT16	FZD6	DVL1	GSK3B
+ >> #7:	Q9UBV4	Q9NPG1	O14641	P49841		WNT16	FZD3	DVL2	GSK3B
+ >> #8:	Q9UBV4	O60353	O14641	P49841		WNT16	FZD6	DVL2	GSK3B
+ >> #9:	Q9UBV4	O60353	P0CG47	P49841		WNT16	FZD6	UBB	GSK3B
+ >> #10:	Q9UBV4	O60353	P62987	P49841		WNT16	FZD6	UBA52	GSK3B
+ >> #11:	Q9UBV4	O60353	P0CG48	P49841		WNT16	FZD6	UBC	GSK3B
+ >> #12:	Q9UBV4	O60353	P62979	P49841		WNT16	FZD6	RPS27A	GSK3B
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2, 3]
+ > n_tissues: 16
+ > largest tissue pathway set: 12
+ > smallest tissue pathway set: 3
+ > FP <= E: 3112
+ > expected path present: False
+ > expected protein presence:
+    @ Q9UBV4: {'spleen', 'prostate', 'breast', 'basal ganglia', 'lymph node', 'vagina', 'ductus deferens', 'colon', 'spinal cord', 'cerebral cortex', 'epididymis', 'pons and medulla', 'skin 1', 'seminal vesicle', 'endometrium 1', 'B-cells'}
+    @ Q9ULW2: 
+    @ P09471: 
+    @ O14640: {'B-cells'}
+    @ P49841: {'spleen', 'prostate', 'breast', 'basal ganglia', 'lymph node', 'vagina', 'ductus deferens', 'colon', 'spinal cord', 'cerebral cortex', 'epididymis', 'pons and medulla', 'skin 1', 'seminal vesicle', 'endometrium 1', 'B-cells'}
+    @ ('Q9UBV4', 'Q9ULW2'): 
+    @ ('Q9UBV4', 'P09471'): 
+    @ ('Q9UBV4', 'O14640'): {'B-cells'}
+    @ ('Q9UBV4', 'P49841'): {'spleen', 'prostate', 'breast', 'lymph node', 'skin 1', 'vagina', 'ductus deferens', 'colon', 'spinal cord', 'cerebral cortex', 'epididymis', 'pons and medulla', 'basal ganglia', 'seminal vesicle', 'endometrium 1', 'B-cells'}
+    @ ('Q9ULW2', 'P09471'): 
+    @ ('Q9ULW2', 'O14640'): 
+    @ ('Q9ULW2', 'P49841'): 
+    @ ('P09471', 'O14640'): 
+    @ ('P09471', 'P49841'): 
+    @ ('O14640', 'P49841'): {'B-cells'}
+    @ ('Q9UBV4', 'Q9ULW2', 'P09471'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'O14640'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'P49841'): 
+    @ ('Q9UBV4', 'P09471', 'O14640'): 
+    @ ('Q9UBV4', 'P09471', 'P49841'): 
+    @ ('Q9UBV4', 'O14640', 'P49841'): {'B-cells'}
+    @ ('Q9ULW2', 'P09471', 'O14640'): 
+    @ ('Q9ULW2', 'P09471', 'P49841'): 
+    @ ('Q9ULW2', 'O14640', 'P49841'): 
+    @ ('P09471', 'O14640', 'P49841'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'P09471', 'O14640'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'P09471', 'P49841'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'O14640', 'P49841'): 
+    @ ('Q9UBV4', 'P09471', 'O14640', 'P49841'): 
+    @ ('Q9ULW2', 'P09471', 'O14640', 'P49841'): 
+    @ ('Q9UBV4', 'Q9ULW2', 'P09471', 'O14640', 'P49841'): 
+ > expected protein position in pathway:
+    @ Q9UBV4: {0}
+    @ Q9ULW2: 
+    @ P09471: 
+    @ O14640: {2}
+    @ P49841: {2, 3}

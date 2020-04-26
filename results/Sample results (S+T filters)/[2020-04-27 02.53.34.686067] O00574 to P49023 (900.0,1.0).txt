@@ -1,0 +1,391 @@
+[2020-04-27 02.53.34.686067] O00574 to P49023 (900.0,1.0)
+
+--- Predicted pathways between O00574 and P49023 ---
+
+Pathways in spleen:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in tongue:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in small intestine:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in ductus deferens:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in kidney:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in ovary:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in spinal cord:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in urinary bladder:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in adipose tissue:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in endometrium 1:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in testis:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in appendix:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in fallopian tube:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in esophagus:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in lymph node:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in vagina:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in thymus:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in pancreas:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in adrenal gland:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in retina:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in NK-cells:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+Pathways in tonsil:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in duodenum:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in smooth muscle:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in liver:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in heart muscle:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in skin 1:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in gallbladder:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in colon:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in placenta:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in thyroid gland:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in epididymis:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in lung:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in prostate:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in breast:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in salivary gland:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in skeletal muscle:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in total PBMC:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #5:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+Pathways in rectum:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in pons and medulla:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in T-cells:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #6:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+Pathways in stomach 1:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #3:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #4:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #5:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+ >> #6:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #7:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+Pathways in corpus callosum:
+ >> #1:	O00574	P04899	P49023		CXCR6	GNAI2	PXN
+ >> #2:	O00574	P59768	P49023		CXCR6	GNG2	PXN
+ >> #3:	O00574	P08754	P49023		CXCR6	GNAI3	PXN
+ >> #4:	O00574	P61073	P49023		CXCR6	CXCR4	PXN
+ >> #5:	O00574	P48061	P49023		CXCR6	CXCL12	PXN
+ >> #6:	O00574	P63096	P49023		CXCR6	GNAI1	PXN
+ >> #7:	O00574	P62873	P49023		CXCR6	GNB1	PXN
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 43
+ > largest tissue pathway set: 7
+ > smallest tissue pathway set: 5
+ > FP <= E: 50665
+ > expected path present: False
+ > expected protein presence:
+    @ O00574: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P63096: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q5TGY6: 
+    @ Q14289: 
+    @ P49023: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('O00574', 'P63096'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('O00574', 'Q5TGY6'): 
+    @ ('O00574', 'Q14289'): 
+    @ ('O00574', 'P49023'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P63096', 'Q5TGY6'): 
+    @ ('P63096', 'Q14289'): 
+    @ ('P63096', 'P49023'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'adipose tissue', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q5TGY6', 'Q14289'): 
+    @ ('Q5TGY6', 'P49023'): 
+    @ ('Q14289', 'P49023'): 
+    @ ('O00574', 'P63096', 'Q5TGY6'): 
+    @ ('O00574', 'P63096', 'Q14289'): 
+    @ ('O00574', 'P63096', 'P49023'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'testis', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'vagina', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'colon', 'placenta', 'thyroid gland', 'epididymis', 'lung', 'prostate', 'breast', 'salivary gland', 'skeletal muscle', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('O00574', 'Q5TGY6', 'Q14289'): 
+    @ ('O00574', 'Q5TGY6', 'P49023'): 
+    @ ('O00574', 'Q14289', 'P49023'): 
+    @ ('P63096', 'Q5TGY6', 'Q14289'): 
+    @ ('P63096', 'Q5TGY6', 'P49023'): 
+    @ ('P63096', 'Q14289', 'P49023'): 
+    @ ('Q5TGY6', 'Q14289', 'P49023'): 
+    @ ('O00574', 'P63096', 'Q5TGY6', 'Q14289'): 
+    @ ('O00574', 'P63096', 'Q5TGY6', 'P49023'): 
+    @ ('O00574', 'P63096', 'Q14289', 'P49023'): 
+    @ ('O00574', 'Q5TGY6', 'Q14289', 'P49023'): 
+    @ ('P63096', 'Q5TGY6', 'Q14289', 'P49023'): 
+    @ ('O00574', 'P63096', 'Q5TGY6', 'Q14289', 'P49023'): 
+ > expected protein position in pathway:
+    @ O00574: {0}
+    @ P63096: {1}
+    @ Q5TGY6: 
+    @ Q14289: 
+    @ P49023: {2}

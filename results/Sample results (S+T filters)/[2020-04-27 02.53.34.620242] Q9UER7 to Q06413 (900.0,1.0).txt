@@ -1,0 +1,168 @@
+[2020-04-27 02.53.34.620242] Q9UER7 to Q06413 (900.0,1.0)
+
+--- Predicted pathways between Q9UER7 and Q06413 ---
+
+Pathways in spleen:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in tongue:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in bone marrow:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in small intestine:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in ductus deferens:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in kidney:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in ovary:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in parathyroid gland:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in spinal cord:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in urinary bladder:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in granulocytes:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in adipose tissue:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in amygdala:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in endometrium 1:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in appendix:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in fallopian tube:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in testis:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in esophagus:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in lymph node:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in vagina:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in thalamus:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in midbrain:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in thymus:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in pancreas:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in adrenal gland:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in retina:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in NK-cells:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in basal ganglia:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in hippocampal formation:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in tonsil:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in B-cells:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in duodenum:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in smooth muscle:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in liver:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in heart muscle:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in dendritic cells:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in gallbladder:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in cerebellum:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in colon:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in placenta:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in thyroid gland:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in cerebral cortex:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in epididymis:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in lung:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in seminal vesicle:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in prostate:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in breast:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in olfactory region:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in salivary gland:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in skeletal muscle:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in total PBMC:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in hypothalamus:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in rectum:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in monocytes:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in pons and medulla:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in skin 1:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in stomach 1:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+Pathways in corpus callosum:
+ >> #1:	Q9UER7	P63279	Q06413		DAXX	UBE2I	MEF2C
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 58
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 8379
+ > expected path present: False
+ > expected protein presence:
+    @ Q9UER7: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q99683: 
+    @ P52564: 
+    @ Q16539: 
+    @ Q06413: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q9UER7', 'Q99683'): 
+    @ ('Q9UER7', 'P52564'): 
+    @ ('Q9UER7', 'Q16539'): 
+    @ ('Q9UER7', 'Q06413'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('Q99683', 'P52564'): 
+    @ ('Q99683', 'Q16539'): 
+    @ ('Q99683', 'Q06413'): 
+    @ ('P52564', 'Q16539'): 
+    @ ('P52564', 'Q06413'): 
+    @ ('Q16539', 'Q06413'): 
+    @ ('Q9UER7', 'Q99683', 'P52564'): 
+    @ ('Q9UER7', 'Q99683', 'Q16539'): 
+    @ ('Q9UER7', 'Q99683', 'Q06413'): 
+    @ ('Q9UER7', 'P52564', 'Q16539'): 
+    @ ('Q9UER7', 'P52564', 'Q06413'): 
+    @ ('Q9UER7', 'Q16539', 'Q06413'): 
+    @ ('Q99683', 'P52564', 'Q16539'): 
+    @ ('Q99683', 'P52564', 'Q06413'): 
+    @ ('Q99683', 'Q16539', 'Q06413'): 
+    @ ('P52564', 'Q16539', 'Q06413'): 
+    @ ('Q9UER7', 'Q99683', 'P52564', 'Q16539'): 
+    @ ('Q9UER7', 'Q99683', 'P52564', 'Q06413'): 
+    @ ('Q9UER7', 'Q99683', 'Q16539', 'Q06413'): 
+    @ ('Q9UER7', 'P52564', 'Q16539', 'Q06413'): 
+    @ ('Q99683', 'P52564', 'Q16539', 'Q06413'): 
+    @ ('Q9UER7', 'Q99683', 'P52564', 'Q16539', 'Q06413'): 
+ > expected protein position in pathway:
+    @ Q9UER7: {0}
+    @ Q99683: 
+    @ P52564: 
+    @ Q16539: 
+    @ Q06413: {2}

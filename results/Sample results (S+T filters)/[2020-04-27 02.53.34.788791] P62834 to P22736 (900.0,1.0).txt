@@ -1,0 +1,160 @@
+[2020-04-27 02.53.34.788791] P62834 to P22736 (900.0,1.0)
+
+--- Predicted pathways between P62834 and P22736 ---
+
+Pathways in spleen:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in tongue:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in bone marrow:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in small intestine:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in ductus deferens:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in kidney:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in ovary:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in parathyroid gland:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in spinal cord:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in urinary bladder:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in adipose tissue:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in amygdala:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in endometrium 1:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in appendix:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in fallopian tube:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in testis:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in esophagus:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in lymph node:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in vagina:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in thalamus:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in midbrain:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in thymus:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in pancreas:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in adrenal gland:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in retina:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in basal ganglia:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in hippocampal formation:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in tonsil:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in duodenum:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in smooth muscle:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in liver:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in heart muscle:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in dendritic cells:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in gallbladder:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in cerebellum:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in colon:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in placenta:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in thyroid gland:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in cerebral cortex:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in epididymis:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in lung:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in seminal vesicle:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in prostate:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in breast:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in olfactory region:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in salivary gland:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in skeletal muscle:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in hypothalamus:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in rectum:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in monocytes:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in pons and medulla:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in skin 1:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in stomach 1:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+Pathways in corpus callosum:
+ >> #1:	P62834	P28482	P22736		RAP1A	MAPK1	NR4A1
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 54
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 6652
+ > expected path present: False
+ > expected protein presence:
+    @ P62834: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P15056: 
+    @ Q02750: 
+    @ P28482: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P22736: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('P62834', 'P15056'): 
+    @ ('P62834', 'Q02750'): 
+    @ ('P62834', 'P28482'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('P62834', 'P22736'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('P15056', 'Q02750'): 
+    @ ('P15056', 'P28482'): 
+    @ ('P15056', 'P22736'): 
+    @ ('Q02750', 'P28482'): 
+    @ ('Q02750', 'P22736'): 
+    @ ('P28482', 'P22736'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('P62834', 'P15056', 'Q02750'): 
+    @ ('P62834', 'P15056', 'P28482'): 
+    @ ('P62834', 'P15056', 'P22736'): 
+    @ ('P62834', 'Q02750', 'P28482'): 
+    @ ('P62834', 'Q02750', 'P22736'): 
+    @ ('P62834', 'P28482', 'P22736'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('P15056', 'Q02750', 'P28482'): 
+    @ ('P15056', 'Q02750', 'P22736'): 
+    @ ('P15056', 'P28482', 'P22736'): 
+    @ ('Q02750', 'P28482', 'P22736'): 
+    @ ('P62834', 'P15056', 'Q02750', 'P28482'): 
+    @ ('P62834', 'P15056', 'Q02750', 'P22736'): 
+    @ ('P62834', 'P15056', 'P28482', 'P22736'): 
+    @ ('P62834', 'Q02750', 'P28482', 'P22736'): 
+    @ ('P15056', 'Q02750', 'P28482', 'P22736'): 
+    @ ('P62834', 'P15056', 'Q02750', 'P28482', 'P22736'): 
+ > expected protein position in pathway:
+    @ P62834: {0}
+    @ P15056: 
+    @ Q02750: 
+    @ P28482: {1}
+    @ P22736: {2}

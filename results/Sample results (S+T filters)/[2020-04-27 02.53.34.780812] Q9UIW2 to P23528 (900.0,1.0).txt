@@ -1,0 +1,256 @@
+[2020-04-27 02.53.34.780812] Q9UIW2 to P23528 (900.0,1.0)
+
+--- Predicted pathways between Q9UIW2 and P23528 ---
+
+Pathways in spleen:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in tongue:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in small intestine:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in ductus deferens:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in kidney:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in ovary:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in parathyroid gland:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in spinal cord:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in urinary bladder:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in adipose tissue:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in amygdala:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in endometrium 1:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in appendix:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in fallopian tube:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in testis:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in esophagus:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in lymph node:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in vagina:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in thalamus:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in midbrain:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in thymus:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in pancreas:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in adrenal gland:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in retina:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in basal ganglia:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in hippocampal formation:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in tonsil:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in duodenum:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in smooth muscle:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in liver:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in heart muscle:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in skin 1:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in gallbladder:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in cerebellum:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in colon:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in placenta:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in thyroid gland:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in cerebral cortex:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in epididymis:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in lung:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in seminal vesicle:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in prostate:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in breast:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in olfactory region:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in salivary gland:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in skeletal muscle:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in hypothalamus:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in pons and medulla:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in T-cells:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in stomach 1:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+Pathways in corpus callosum:
+ >> #1:	Q9UIW2	P07900	P23528		PLXNA1	HSP90AA1	CFL1
+ >> #2:	Q9UIW2	P08238	P23528		PLXNA1	HSP90AB1	CFL1
+ >> #3:	Q9UIW2	P53667	P23528		PLXNA1	LIMK1	CFL1
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 51
+ > largest tissue pathway set: 3
+ > smallest tissue pathway set: 3
+ > FP <= E: 3655
+ > expected path present: False
+ > expected protein presence:
+    @ Q9UIW2: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P63000: 
+    @ O96013: 
+    @ P53667: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P23528: {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q9UIW2', 'P63000'): 
+    @ ('Q9UIW2', 'O96013'): 
+    @ ('Q9UIW2', 'P53667'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q9UIW2', 'P23528'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P63000', 'O96013'): 
+    @ ('P63000', 'P53667'): 
+    @ ('P63000', 'P23528'): 
+    @ ('O96013', 'P53667'): 
+    @ ('O96013', 'P23528'): 
+    @ ('P53667', 'P23528'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q9UIW2', 'P63000', 'O96013'): 
+    @ ('Q9UIW2', 'P63000', 'P53667'): 
+    @ ('Q9UIW2', 'P63000', 'P23528'): 
+    @ ('Q9UIW2', 'O96013', 'P53667'): 
+    @ ('Q9UIW2', 'O96013', 'P23528'): 
+    @ ('Q9UIW2', 'P53667', 'P23528'): {'spleen', 'tongue', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'hypothalamus', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P63000', 'O96013', 'P53667'): 
+    @ ('P63000', 'O96013', 'P23528'): 
+    @ ('P63000', 'P53667', 'P23528'): 
+    @ ('O96013', 'P53667', 'P23528'): 
+    @ ('Q9UIW2', 'P63000', 'O96013', 'P53667'): 
+    @ ('Q9UIW2', 'P63000', 'O96013', 'P23528'): 
+    @ ('Q9UIW2', 'P63000', 'P53667', 'P23528'): 
+    @ ('Q9UIW2', 'O96013', 'P53667', 'P23528'): 
+    @ ('P63000', 'O96013', 'P53667', 'P23528'): 
+    @ ('Q9UIW2', 'P63000', 'O96013', 'P53667', 'P23528'): 
+ > expected protein position in pathway:
+    @ Q9UIW2: {0}
+    @ P63000: 
+    @ O96013: 
+    @ P53667: {1}
+    @ P23528: {2}

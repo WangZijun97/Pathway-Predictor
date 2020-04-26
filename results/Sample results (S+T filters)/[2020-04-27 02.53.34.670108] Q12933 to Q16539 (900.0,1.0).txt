@@ -1,0 +1,170 @@
+[2020-04-27 02.53.34.670108] Q12933 to Q16539 (900.0,1.0)
+
+--- Predicted pathways between Q12933 and Q16539 ---
+
+Pathways in spleen:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in tongue:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in bone marrow:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in small intestine:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in ductus deferens:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in kidney:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in ovary:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in parathyroid gland:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in spinal cord:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in urinary bladder:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in granulocytes:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in adipose tissue:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in amygdala:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in endometrium 1:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in appendix:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in fallopian tube:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in testis:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in esophagus:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in lymph node:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in vagina:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in thalamus:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in midbrain:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in thymus:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in pancreas:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in adrenal gland:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in retina:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in NK-cells:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in basal ganglia:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in hippocampal formation:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in tonsil:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in B-cells:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in duodenum:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in smooth muscle:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in liver:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in heart muscle:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in skin 1:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in dendritic cells:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in gallbladder:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in cerebellum:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in colon:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in placenta:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in thyroid gland:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in cerebral cortex:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in epididymis:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in lung:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in seminal vesicle:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in prostate:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in breast:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in olfactory region:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in salivary gland:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in skeletal muscle:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in total PBMC:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in hypothalamus:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in rectum:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in monocytes:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in pons and medulla:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in T-cells:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in stomach 1:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+Pathways in corpus callosum:
+ >> #1:	Q12933	Q16539		TRAF2	MAPK14
+
+
+--- Prediction Analysis Results ---
+
+ > length: [1]
+ > n_tissues: 59
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 101734
+ > expected path present: False
+ > expected protein presence:
+    @ Q12933: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q13490: 
+    @ Q13546: 
+    @ X6RB39: 
+    @ Q16539: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q12933', 'Q13490'): 
+    @ ('Q12933', 'Q13546'): 
+    @ ('Q12933', 'X6RB39'): 
+    @ ('Q12933', 'Q16539'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q13490', 'Q13546'): 
+    @ ('Q13490', 'X6RB39'): 
+    @ ('Q13490', 'Q16539'): 
+    @ ('Q13546', 'X6RB39'): 
+    @ ('Q13546', 'Q16539'): 
+    @ ('X6RB39', 'Q16539'): 
+    @ ('Q12933', 'Q13490', 'Q13546'): 
+    @ ('Q12933', 'Q13490', 'X6RB39'): 
+    @ ('Q12933', 'Q13490', 'Q16539'): 
+    @ ('Q12933', 'Q13546', 'X6RB39'): 
+    @ ('Q12933', 'Q13546', 'Q16539'): 
+    @ ('Q12933', 'X6RB39', 'Q16539'): 
+    @ ('Q13490', 'Q13546', 'X6RB39'): 
+    @ ('Q13490', 'Q13546', 'Q16539'): 
+    @ ('Q13490', 'X6RB39', 'Q16539'): 
+    @ ('Q13546', 'X6RB39', 'Q16539'): 
+    @ ('Q12933', 'Q13490', 'Q13546', 'X6RB39'): 
+    @ ('Q12933', 'Q13490', 'Q13546', 'Q16539'): 
+    @ ('Q12933', 'Q13490', 'X6RB39', 'Q16539'): 
+    @ ('Q12933', 'Q13546', 'X6RB39', 'Q16539'): 
+    @ ('Q13490', 'Q13546', 'X6RB39', 'Q16539'): 
+    @ ('Q12933', 'Q13490', 'Q13546', 'X6RB39', 'Q16539'): 
+ > expected protein position in pathway:
+    @ Q12933: {0}
+    @ Q13490: 
+    @ Q13546: 
+    @ X6RB39: 
+    @ Q16539: {1}

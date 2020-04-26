@@ -1,0 +1,134 @@
+[2020-04-27 02.53.34.785836] P04629 to Q8NER1 (900.0,1.0)
+
+--- Predicted pathways between P04629 and Q8NER1 ---
+
+Pathways in prostate:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in heart muscle:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in salivary gland:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in granulocytes:
+ >> #1:	P04629	O15111	Q02156	Q8NER1		NTRK1	CHUK	PRKCE	TRPV1
+ >> #2:	P04629	P15056	Q02156	Q8NER1		NTRK1	BRAF	PRKCE	TRPV1
+ >> #3:	P04629	P46108	Q02156	Q8NER1		NTRK1	CRK	PRKCE	TRPV1
+ >> #4:	P04629	P28482	Q02156	Q8NER1		NTRK1	MAPK1	PRKCE	TRPV1
+ >> #5:	P04629	Q9Y6K9	Q02156	Q8NER1		NTRK1	IKBKG	PRKCE	TRPV1
+ >> #6:	P04629	O14920	Q02156	Q8NER1		NTRK1	IKBKB	PRKCE	TRPV1
+ >> #7:	P04629	P27361	Q02156	Q8NER1		NTRK1	MAPK3	PRKCE	TRPV1
+ >> #8:	P04629	P60953	Q02156	Q8NER1		NTRK1	CDC42	PRKCE	TRPV1
+Pathways in midbrain:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in gallbladder:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in colon:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in kidney:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in spinal cord:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in hypothalamus:
+ >> #1:	P04629	P31946	P12931	Q8NER1		NTRK1	YWHAB	SRC	TRPV1
+ >> #2:	P04629	P63000	P12931	Q8NER1		NTRK1	RAC1	SRC	TRPV1
+ >> #3:	P04629	Q13480	P12931	Q8NER1		NTRK1	GAB1	SRC	TRPV1
+ >> #4:	P04629	P29353	P12931	Q8NER1		NTRK1	SHC1	SRC	TRPV1
+ >> #5:	P04629	P46109	P12931	Q8NER1		NTRK1	CRKL	SRC	TRPV1
+ >> #6:	P04629	Q92529	P12931	Q8NER1		NTRK1	SHC3	SRC	TRPV1
+ >> #7:	P04629	Q8WU20	P12931	Q8NER1		NTRK1	FRS2	SRC	TRPV1
+ >> #8:	P04629	P61586	P12931	Q8NER1		NTRK1	RHOA	SRC	TRPV1
+ >> #9:	P04629	P00519	P12931	Q8NER1		NTRK1	ABL1	SRC	TRPV1
+ >> #10:	P04629	Q05513	P12931	Q8NER1		NTRK1	PRKCZ	SRC	TRPV1
+ >> #11:	P04629	P40763	P12931	Q8NER1		NTRK1	STAT3	SRC	TRPV1
+ >> #12:	P04629	P41743	P12931	Q8NER1		NTRK1	PRKCI	SRC	TRPV1
+ >> #13:	P04629	P42338	P12931	Q8NER1		NTRK1	PIK3CB	SRC	TRPV1
+ >> #14:	P04629	Q16620	P12931	Q8NER1		NTRK1	NTRK2	SRC	TRPV1
+ >> #15:	P04629	Q05193	P12931	Q8NER1		NTRK1	DNM1	SRC	TRPV1
+ >> #16:	P04629	Q07889	P12931	Q8NER1		NTRK1	SOS1	SRC	TRPV1
+ >> #17:	P04629	P20936	P12931	Q8NER1		NTRK1	RASA1	SRC	TRPV1
+ >> #18:	P04629	P62993	P12931	Q8NER1		NTRK1	GRB2	SRC	TRPV1
+ >> #19:	P04629	P35568	P12931	Q8NER1		NTRK1	IRS1	SRC	TRPV1
+ >> #20:	P04629	P15056	P12931	Q8NER1		NTRK1	BRAF	SRC	TRPV1
+ >> #21:	P04629	P27986	P12931	Q8NER1		NTRK1	PIK3R1	SRC	TRPV1
+ >> #22:	P04629	P62834	P12931	Q8NER1		NTRK1	RAP1A	SRC	TRPV1
+ >> #23:	P04629	Q06124	P12931	Q8NER1		NTRK1	PTPN11	SRC	TRPV1
+ >> #24:	P04629	P60953	P12931	Q8NER1		NTRK1	CDC42	SRC	TRPV1
+ >> #25:	P04629	O00459	P12931	Q8NER1		NTRK1	PIK3R2	SRC	TRPV1
+ >> #26:	P04629	P19174	P12931	Q8NER1		NTRK1	PLCG1	SRC	TRPV1
+ >> #27:	P04629	P46108	P12931	Q8NER1		NTRK1	CRK	SRC	TRPV1
+ >> #28:	P04629	P42336	P12931	Q8NER1		NTRK1	PIK3CA	SRC	TRPV1
+ >> #29:	P04629	P28482	P12931	Q8NER1		NTRK1	MAPK1	SRC	TRPV1
+ >> #30:	P04629	P98077	P12931	Q8NER1		NTRK1	SHC2	SRC	TRPV1
+ >> #31:	P04629	P27361	P12931	Q8NER1		NTRK1	MAPK3	SRC	TRPV1
+ >> #32:	P04629	O15111	Q02156	Q8NER1		NTRK1	CHUK	PRKCE	TRPV1
+ >> #33:	P04629	P15056	Q02156	Q8NER1		NTRK1	BRAF	PRKCE	TRPV1
+ >> #34:	P04629	O14920	Q02156	Q8NER1		NTRK1	IKBKB	PRKCE	TRPV1
+ >> #35:	P04629	P60953	Q02156	Q8NER1		NTRK1	CDC42	PRKCE	TRPV1
+ >> #36:	P04629	P19174	Q02156	Q8NER1		NTRK1	PLCG1	PRKCE	TRPV1
+ >> #37:	P04629	P46108	Q02156	Q8NER1		NTRK1	CRK	PRKCE	TRPV1
+ >> #38:	P04629	P28482	Q02156	Q8NER1		NTRK1	MAPK1	PRKCE	TRPV1
+ >> #39:	P04629	P27361	Q02156	Q8NER1		NTRK1	MAPK3	PRKCE	TRPV1
+ >> #40:	P04629	P27986	P20366	Q8NER1		NTRK1	PIK3R1	TAC1	TRPV1
+ >> #41:	P04629	O00459	P20366	Q8NER1		NTRK1	PIK3R2	TAC1	TRPV1
+ >> #42:	P04629	P42336	P20366	Q8NER1		NTRK1	PIK3CA	TAC1	TRPV1
+Pathways in adrenal gland:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in epididymis:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in adipose tissue:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in basal ganglia:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in stomach 1:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in endometrium 1:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+Pathways in testis:
+ >> #1:	P04629	P01138	Q8NER1		NTRK1	NGF	TRPV1
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2, 3]
+ > n_tissues: 17
+ > largest tissue pathway set: 42
+ > smallest tissue pathway set: 1
+ > FP <= E: 1719
+ > expected path present: False
+ > expected protein presence:
+    @ P04629: {'prostate', 'salivary gland', 'heart muscle', 'adipose tissue', 'midbrain', 'gallbladder', 'colon', 'kidney', 'spinal cord', 'hypothalamus', 'adrenal gland', 'epididymis', 'granulocytes', 'basal ganglia', 'stomach 1', 'endometrium 1', 'testis'}
+    @ P42336: {'hypothalamus'}
+    @ Q05655: 
+    @ P12931: {'hypothalamus'}
+    @ Q8NER1: {'prostate', 'salivary gland', 'heart muscle', 'adipose tissue', 'midbrain', 'gallbladder', 'colon', 'kidney', 'spinal cord', 'hypothalamus', 'adrenal gland', 'epididymis', 'granulocytes', 'basal ganglia', 'stomach 1', 'endometrium 1', 'testis'}
+    @ ('P04629', 'P42336'): {'hypothalamus'}
+    @ ('P04629', 'Q05655'): 
+    @ ('P04629', 'P12931'): {'hypothalamus'}
+    @ ('P04629', 'Q8NER1'): {'prostate', 'heart muscle', 'salivary gland', 'granulocytes', 'midbrain', 'gallbladder', 'colon', 'kidney', 'spinal cord', 'hypothalamus', 'adrenal gland', 'epididymis', 'adipose tissue', 'basal ganglia', 'stomach 1', 'endometrium 1', 'testis'}
+    @ ('P42336', 'Q05655'): 
+    @ ('P42336', 'P12931'): {'hypothalamus'}
+    @ ('P42336', 'Q8NER1'): {'hypothalamus'}
+    @ ('Q05655', 'P12931'): 
+    @ ('Q05655', 'Q8NER1'): 
+    @ ('P12931', 'Q8NER1'): {'hypothalamus'}
+    @ ('P04629', 'P42336', 'Q05655'): 
+    @ ('P04629', 'P42336', 'P12931'): {'hypothalamus'}
+    @ ('P04629', 'P42336', 'Q8NER1'): {'hypothalamus'}
+    @ ('P04629', 'Q05655', 'P12931'): 
+    @ ('P04629', 'Q05655', 'Q8NER1'): 
+    @ ('P04629', 'P12931', 'Q8NER1'): {'hypothalamus'}
+    @ ('P42336', 'Q05655', 'P12931'): 
+    @ ('P42336', 'Q05655', 'Q8NER1'): 
+    @ ('P42336', 'P12931', 'Q8NER1'): {'hypothalamus'}
+    @ ('Q05655', 'P12931', 'Q8NER1'): 
+    @ ('P04629', 'P42336', 'Q05655', 'P12931'): 
+    @ ('P04629', 'P42336', 'Q05655', 'Q8NER1'): 
+    @ ('P04629', 'P42336', 'P12931', 'Q8NER1'): {'hypothalamus'}
+    @ ('P04629', 'Q05655', 'P12931', 'Q8NER1'): 
+    @ ('P42336', 'Q05655', 'P12931', 'Q8NER1'): 
+    @ ('P04629', 'P42336', 'Q05655', 'P12931', 'Q8NER1'): 
+ > expected protein position in pathway:
+    @ P04629: {0}
+    @ P42336: {1}
+    @ Q05655: 
+    @ P12931: {2}
+    @ Q8NER1: {2, 3}

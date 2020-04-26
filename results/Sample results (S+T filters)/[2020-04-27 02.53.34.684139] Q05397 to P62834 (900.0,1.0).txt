@@ -1,0 +1,170 @@
+[2020-04-27 02.53.34.684139] Q05397 to P62834 (900.0,1.0)
+
+--- Predicted pathways between Q05397 and P62834 ---
+
+Pathways in spleen:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in tongue:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in bone marrow:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in small intestine:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in ductus deferens:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in kidney:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in ovary:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in parathyroid gland:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in spinal cord:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in urinary bladder:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in granulocytes:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in adipose tissue:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in amygdala:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in endometrium 1:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in appendix:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in fallopian tube:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in testis:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in esophagus:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in lymph node:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in vagina:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in thalamus:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in midbrain:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in thymus:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in pancreas:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in adrenal gland:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in retina:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in NK-cells:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in basal ganglia:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in hippocampal formation:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in tonsil:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in B-cells:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in duodenum:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in smooth muscle:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in liver:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in heart muscle:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in skin 1:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in dendritic cells:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in gallbladder:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in cerebellum:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in colon:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in placenta:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in thyroid gland:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in cerebral cortex:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in epididymis:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in lung:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in seminal vesicle:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in prostate:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in breast:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in olfactory region:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in salivary gland:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in skeletal muscle:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in total PBMC:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in hypothalamus:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in rectum:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in monocytes:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in pons and medulla:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in T-cells:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in stomach 1:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+Pathways in corpus callosum:
+ >> #1:	Q05397	P62834		PTK2	RAP1A
+
+
+--- Prediction Analysis Results ---
+
+ > length: [1]
+ > n_tissues: 59
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 182110
+ > expected path present: False
+ > expected protein presence:
+    @ Q05397: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ P56945: 
+    @ P46108: 
+    @ Q5JUE9: 
+    @ P62834: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q05397', 'P56945'): 
+    @ ('Q05397', 'P46108'): 
+    @ ('Q05397', 'Q5JUE9'): 
+    @ ('Q05397', 'P62834'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('P56945', 'P46108'): 
+    @ ('P56945', 'Q5JUE9'): 
+    @ ('P56945', 'P62834'): 
+    @ ('P46108', 'Q5JUE9'): 
+    @ ('P46108', 'P62834'): 
+    @ ('Q5JUE9', 'P62834'): 
+    @ ('Q05397', 'P56945', 'P46108'): 
+    @ ('Q05397', 'P56945', 'Q5JUE9'): 
+    @ ('Q05397', 'P56945', 'P62834'): 
+    @ ('Q05397', 'P46108', 'Q5JUE9'): 
+    @ ('Q05397', 'P46108', 'P62834'): 
+    @ ('Q05397', 'Q5JUE9', 'P62834'): 
+    @ ('P56945', 'P46108', 'Q5JUE9'): 
+    @ ('P56945', 'P46108', 'P62834'): 
+    @ ('P56945', 'Q5JUE9', 'P62834'): 
+    @ ('P46108', 'Q5JUE9', 'P62834'): 
+    @ ('Q05397', 'P56945', 'P46108', 'Q5JUE9'): 
+    @ ('Q05397', 'P56945', 'P46108', 'P62834'): 
+    @ ('Q05397', 'P56945', 'Q5JUE9', 'P62834'): 
+    @ ('Q05397', 'P46108', 'Q5JUE9', 'P62834'): 
+    @ ('P56945', 'P46108', 'Q5JUE9', 'P62834'): 
+    @ ('Q05397', 'P56945', 'P46108', 'Q5JUE9', 'P62834'): 
+ > expected protein position in pathway:
+    @ Q05397: {0}
+    @ P56945: 
+    @ P46108: 
+    @ Q5JUE9: 
+    @ P62834: {1}

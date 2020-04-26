@@ -1,0 +1,217 @@
+[2020-04-27 02.53.34.675102] Q9NYK1 to Q13568 (900.0,1.0)
+
+--- Predicted pathways between Q9NYK1 and Q13568 ---
+
+Pathways in spleen:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in bone marrow:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in small intestine:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in kidney:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in ovary:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in parathyroid gland:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in spinal cord:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in urinary bladder:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in granulocytes:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in adipose tissue:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in amygdala:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in endometrium 1:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in appendix:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in fallopian tube:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in testis:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in esophagus:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in lymph node:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in vagina:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in thalamus:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in midbrain:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in thymus:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in pancreas:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in adrenal gland:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in retina:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in basal ganglia:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in hippocampal formation:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in tonsil:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in B-cells:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in duodenum:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in smooth muscle:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in liver:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in heart muscle:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in dendritic cells:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in gallbladder:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in cerebellum:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in colon:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in placenta:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in thyroid gland:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in cerebral cortex:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in epididymis:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in lung:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in seminal vesicle:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in prostate:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in breast:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in olfactory region:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in salivary gland:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in skeletal muscle:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in total PBMC:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in hypothalamus:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in rectum:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in monocytes:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in pons and medulla:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in skin 1:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in stomach 1:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+Pathways in corpus callosum:
+ >> #1:	Q9NYK1	Q9Y4K3	Q13568		TLR7	TRAF6	IRF5
+ >> #2:	Q9NYK1	Q92985	Q13568		TLR7	IRF7	IRF5
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 55
+ > largest tissue pathway set: 2
+ > smallest tissue pathway set: 2
+ > FP <= E: 8392
+ > expected path present: False
+ > expected protein presence:
+    @ Q9NYK1: {'spleen', 'bone marrow', 'small intestine', 'stomach 1', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q99836: 
+    @ Q9NWZ3: 
+    @ Q9Y4K3: {'spleen', 'bone marrow', 'small intestine', 'stomach 1', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q13568: {'spleen', 'bone marrow', 'small intestine', 'stomach 1', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q9NYK1', 'Q99836'): 
+    @ ('Q9NYK1', 'Q9NWZ3'): 
+    @ ('Q9NYK1', 'Q9Y4K3'): {'spleen', 'bone marrow', 'small intestine', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('Q9NYK1', 'Q13568'): {'spleen', 'bone marrow', 'small intestine', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('Q99836', 'Q9NWZ3'): 
+    @ ('Q99836', 'Q9Y4K3'): 
+    @ ('Q99836', 'Q13568'): 
+    @ ('Q9NWZ3', 'Q9Y4K3'): 
+    @ ('Q9NWZ3', 'Q13568'): 
+    @ ('Q9Y4K3', 'Q13568'): {'spleen', 'bone marrow', 'small intestine', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('Q9NYK1', 'Q99836', 'Q9NWZ3'): 
+    @ ('Q9NYK1', 'Q99836', 'Q9Y4K3'): 
+    @ ('Q9NYK1', 'Q99836', 'Q13568'): 
+    @ ('Q9NYK1', 'Q9NWZ3', 'Q9Y4K3'): 
+    @ ('Q9NYK1', 'Q9NWZ3', 'Q13568'): 
+    @ ('Q9NYK1', 'Q9Y4K3', 'Q13568'): {'spleen', 'bone marrow', 'small intestine', 'ovary', 'kidney', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('Q99836', 'Q9NWZ3', 'Q9Y4K3'): 
+    @ ('Q99836', 'Q9NWZ3', 'Q13568'): 
+    @ ('Q99836', 'Q9Y4K3', 'Q13568'): 
+    @ ('Q9NWZ3', 'Q9Y4K3', 'Q13568'): 
+    @ ('Q9NYK1', 'Q99836', 'Q9NWZ3', 'Q9Y4K3'): 
+    @ ('Q9NYK1', 'Q99836', 'Q9NWZ3', 'Q13568'): 
+    @ ('Q9NYK1', 'Q99836', 'Q9Y4K3', 'Q13568'): 
+    @ ('Q9NYK1', 'Q9NWZ3', 'Q9Y4K3', 'Q13568'): 
+    @ ('Q99836', 'Q9NWZ3', 'Q9Y4K3', 'Q13568'): 
+    @ ('Q9NYK1', 'Q99836', 'Q9NWZ3', 'Q9Y4K3', 'Q13568'): 
+ > expected protein position in pathway:
+    @ Q9NYK1: {0}
+    @ Q99836: 
+    @ Q9NWZ3: 
+    @ Q9Y4K3: {1}
+    @ Q13568: {2}

@@ -1,0 +1,166 @@
+[2020-04-27 02.53.34.623234] O75460 to P45983 (900.0,1.0)
+
+--- Predicted pathways between O75460 and P45983 ---
+
+Pathways in spleen:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in tongue:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in bone marrow:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in small intestine:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in ductus deferens:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in kidney:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in ovary:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in parathyroid gland:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in spinal cord:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in urinary bladder:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in granulocytes:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in adipose tissue:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in amygdala:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in endometrium 1:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in appendix:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in fallopian tube:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in testis:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in esophagus:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in lymph node:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in vagina:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in thalamus:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in midbrain:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in thymus:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in pancreas:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in adrenal gland:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in retina:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in NK-cells:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in basal ganglia:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in hippocampal formation:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in tonsil:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in duodenum:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in smooth muscle:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in liver:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in heart muscle:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in skin 1:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in dendritic cells:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in gallbladder:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in cerebellum:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in colon:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in placenta:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in thyroid gland:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in cerebral cortex:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in epididymis:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in lung:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in seminal vesicle:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in prostate:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in breast:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in olfactory region:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in salivary gland:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in skeletal muscle:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in total PBMC:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in hypothalamus:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in rectum:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in pons and medulla:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in T-cells:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in stomach 1:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+Pathways in corpus callosum:
+ >> #1:	O75460	Q12933	P45983		ERN1	TRAF2	MAPK8
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 57
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 2216
+ > expected path present: False
+ > expected protein presence:
+    @ O75460: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q12933: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q99683: 
+    @ O14733: 
+    @ P45983: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('O75460', 'Q12933'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('O75460', 'Q99683'): 
+    @ ('O75460', 'O14733'): 
+    @ ('O75460', 'P45983'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q12933', 'Q99683'): 
+    @ ('Q12933', 'O14733'): 
+    @ ('Q12933', 'P45983'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q99683', 'O14733'): 
+    @ ('Q99683', 'P45983'): 
+    @ ('O14733', 'P45983'): 
+    @ ('O75460', 'Q12933', 'Q99683'): 
+    @ ('O75460', 'Q12933', 'O14733'): 
+    @ ('O75460', 'Q12933', 'P45983'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('O75460', 'Q99683', 'O14733'): 
+    @ ('O75460', 'Q99683', 'P45983'): 
+    @ ('O75460', 'O14733', 'P45983'): 
+    @ ('Q12933', 'Q99683', 'O14733'): 
+    @ ('Q12933', 'Q99683', 'P45983'): 
+    @ ('Q12933', 'O14733', 'P45983'): 
+    @ ('Q99683', 'O14733', 'P45983'): 
+    @ ('O75460', 'Q12933', 'Q99683', 'O14733'): 
+    @ ('O75460', 'Q12933', 'Q99683', 'P45983'): 
+    @ ('O75460', 'Q12933', 'O14733', 'P45983'): 
+    @ ('O75460', 'Q99683', 'O14733', 'P45983'): 
+    @ ('Q12933', 'Q99683', 'O14733', 'P45983'): 
+    @ ('O75460', 'Q12933', 'Q99683', 'O14733', 'P45983'): 
+ > expected protein position in pathway:
+    @ O75460: {0}
+    @ Q12933: {1}
+    @ Q99683: 
+    @ O14733: 
+    @ P45983: {2}

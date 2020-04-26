@@ -1,0 +1,170 @@
+[2020-04-27 02.53.34.778846] Q9Y2Z0 to P25963 (900.0,1.0)
+
+--- Predicted pathways between Q9Y2Z0 and P25963 ---
+
+Pathways in spleen:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in tongue:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in bone marrow:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in small intestine:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in ductus deferens:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in kidney:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in ovary:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in parathyroid gland:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in spinal cord:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in urinary bladder:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in granulocytes:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in adipose tissue:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in amygdala:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in endometrium 1:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in appendix:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in fallopian tube:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in testis:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in esophagus:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in lymph node:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in vagina:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in thalamus:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in midbrain:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in thymus:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in pancreas:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in adrenal gland:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in retina:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in NK-cells:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in basal ganglia:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in hippocampal formation:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in tonsil:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in B-cells:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in duodenum:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in smooth muscle:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in liver:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in heart muscle:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in skin 1:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in dendritic cells:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in gallbladder:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in cerebellum:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in colon:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in placenta:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in thyroid gland:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in cerebral cortex:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in epididymis:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in lung:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in seminal vesicle:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in prostate:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in breast:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in olfactory region:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in salivary gland:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in skeletal muscle:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in total PBMC:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in hypothalamus:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in rectum:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in monocytes:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in pons and medulla:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in T-cells:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in stomach 1:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+Pathways in corpus callosum:
+ >> #1:	Q9Y2Z0	P63208	P25963		SUGT1	SKP1	NFKBIA
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 59
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 7130
+ > expected path present: False
+ > expected protein presence:
+    @ Q9Y2Z0: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q9Y239: 
+    @ O43353: 
+    @ Q9Y6K9: 
+    @ P25963: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('Q9Y2Z0', 'Q9Y239'): 
+    @ ('Q9Y2Z0', 'O43353'): 
+    @ ('Q9Y2Z0', 'Q9Y6K9'): 
+    @ ('Q9Y2Z0', 'P25963'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q9Y239', 'O43353'): 
+    @ ('Q9Y239', 'Q9Y6K9'): 
+    @ ('Q9Y239', 'P25963'): 
+    @ ('O43353', 'Q9Y6K9'): 
+    @ ('O43353', 'P25963'): 
+    @ ('Q9Y6K9', 'P25963'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'O43353'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'Q9Y6K9'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'P25963'): 
+    @ ('Q9Y2Z0', 'O43353', 'Q9Y6K9'): 
+    @ ('Q9Y2Z0', 'O43353', 'P25963'): 
+    @ ('Q9Y2Z0', 'Q9Y6K9', 'P25963'): 
+    @ ('Q9Y239', 'O43353', 'Q9Y6K9'): 
+    @ ('Q9Y239', 'O43353', 'P25963'): 
+    @ ('Q9Y239', 'Q9Y6K9', 'P25963'): 
+    @ ('O43353', 'Q9Y6K9', 'P25963'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'O43353', 'Q9Y6K9'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'O43353', 'P25963'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'Q9Y6K9', 'P25963'): 
+    @ ('Q9Y2Z0', 'O43353', 'Q9Y6K9', 'P25963'): 
+    @ ('Q9Y239', 'O43353', 'Q9Y6K9', 'P25963'): 
+    @ ('Q9Y2Z0', 'Q9Y239', 'O43353', 'Q9Y6K9', 'P25963'): 
+ > expected protein position in pathway:
+    @ Q9Y2Z0: {0}
+    @ Q9Y239: 
+    @ O43353: 
+    @ Q9Y6K9: 
+    @ P25963: {2}

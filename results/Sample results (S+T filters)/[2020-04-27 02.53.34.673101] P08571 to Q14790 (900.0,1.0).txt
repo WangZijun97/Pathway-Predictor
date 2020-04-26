@@ -1,0 +1,164 @@
+[2020-04-27 02.53.34.673101] P08571 to Q14790 (900.0,1.0)
+
+--- Predicted pathways between P08571 and Q14790 ---
+
+Pathways in spleen:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in tongue:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in bone marrow:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in small intestine:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in ductus deferens:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in kidney:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in ovary:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in parathyroid gland:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in spinal cord:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in urinary bladder:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in granulocytes:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in adipose tissue:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in amygdala:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in endometrium 1:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in appendix:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in fallopian tube:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in testis:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in esophagus:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in lymph node:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in vagina:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in thalamus:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in midbrain:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in thymus:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in pancreas:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in adrenal gland:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in retina:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in basal ganglia:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in hippocampal formation:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in tonsil:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in duodenum:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in smooth muscle:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in liver:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in heart muscle:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in dendritic cells:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in gallbladder:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in cerebellum:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in colon:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in placenta:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in thyroid gland:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in cerebral cortex:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in epididymis:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in lung:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in seminal vesicle:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in prostate:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in breast:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in olfactory region:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in salivary gland:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in skeletal muscle:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in total PBMC:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in hypothalamus:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in rectum:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in monocytes:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in pons and medulla:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in skin 1:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in stomach 1:
+ >> #1:	P08571	Q14790		CD14	CASP8
+Pathways in corpus callosum:
+ >> #1:	P08571	Q14790		CD14	CASP8
+
+
+--- Prediction Analysis Results ---
+
+ > length: [1]
+ > n_tissues: 56
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 47056
+ > expected path present: False
+ > expected protein presence:
+    @ P08571: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ O00206: 
+    @ Q99836: 
+    @ Q13158: 
+    @ Q14790: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('P08571', 'O00206'): 
+    @ ('P08571', 'Q99836'): 
+    @ ('P08571', 'Q13158'): 
+    @ ('P08571', 'Q14790'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'stomach 1', 'corpus callosum'}
+    @ ('O00206', 'Q99836'): 
+    @ ('O00206', 'Q13158'): 
+    @ ('O00206', 'Q14790'): 
+    @ ('Q99836', 'Q13158'): 
+    @ ('Q99836', 'Q14790'): 
+    @ ('Q13158', 'Q14790'): 
+    @ ('P08571', 'O00206', 'Q99836'): 
+    @ ('P08571', 'O00206', 'Q13158'): 
+    @ ('P08571', 'O00206', 'Q14790'): 
+    @ ('P08571', 'Q99836', 'Q13158'): 
+    @ ('P08571', 'Q99836', 'Q14790'): 
+    @ ('P08571', 'Q13158', 'Q14790'): 
+    @ ('O00206', 'Q99836', 'Q13158'): 
+    @ ('O00206', 'Q99836', 'Q14790'): 
+    @ ('O00206', 'Q13158', 'Q14790'): 
+    @ ('Q99836', 'Q13158', 'Q14790'): 
+    @ ('P08571', 'O00206', 'Q99836', 'Q13158'): 
+    @ ('P08571', 'O00206', 'Q99836', 'Q14790'): 
+    @ ('P08571', 'O00206', 'Q13158', 'Q14790'): 
+    @ ('P08571', 'Q99836', 'Q13158', 'Q14790'): 
+    @ ('O00206', 'Q99836', 'Q13158', 'Q14790'): 
+    @ ('P08571', 'O00206', 'Q99836', 'Q13158', 'Q14790'): 
+ > expected protein position in pathway:
+    @ P08571: {0}
+    @ O00206: 
+    @ Q99836: 
+    @ Q13158: 
+    @ Q14790: {1}

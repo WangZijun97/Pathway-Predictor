@@ -1,0 +1,297 @@
+[2020-04-27 02.53.34.617250] Q04759 to P01100 (900.0,1.0)
+
+--- Predicted pathways between Q04759 and P01100 ---
+
+Pathways in spleen:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in tongue:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in bone marrow:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in small intestine:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in kidney:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in ovary:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in spinal cord:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in urinary bladder:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in granulocytes:
+ >> #1:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #2:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #3:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #4:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in amygdala:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in endometrium 1:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in appendix:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in fallopian tube:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in esophagus:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in lymph node:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in thalamus:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in midbrain:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in thymus:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in pancreas:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in retina:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in basal ganglia:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in hippocampal formation:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in tonsil:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in duodenum:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in gallbladder:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in colon:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in thyroid gland:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in cerebral cortex:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in epididymis:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in lung:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in seminal vesicle:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in prostate:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in olfactory region:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in salivary gland:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in skeletal muscle:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in total PBMC:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in hypothalamus:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in rectum:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in pons and medulla:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in stomach 1:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+Pathways in corpus callosum:
+ >> #1:	Q04759	P12931	P01100		PRKCQ	SRC	FOS
+ >> #2:	Q04759	P27361	P01100		PRKCQ	MAPK3	FOS
+ >> #3:	Q04759	P45983	P01100		PRKCQ	MAPK8	FOS
+ >> #4:	Q04759	P28482	P01100		PRKCQ	MAPK1	FOS
+ >> #5:	Q04759	P07948	P01100		PRKCQ	LYN	FOS
+
+
+--- Prediction Analysis Results ---
+
+ > length: [2]
+ > n_tissues: 41
+ > largest tissue pathway set: 5
+ > smallest tissue pathway set: 4
+ > FP <= E: 21526
+ > expected path present: False
+ > expected protein presence:
+    @ Q04759: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ Q9UG54: 
+    @ O14733: 
+    @ P45983: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ P01100: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ ('Q04759', 'Q9UG54'): 
+    @ ('Q04759', 'O14733'): 
+    @ ('Q04759', 'P45983'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ ('Q04759', 'P01100'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ ('Q9UG54', 'O14733'): 
+    @ ('Q9UG54', 'P45983'): 
+    @ ('Q9UG54', 'P01100'): 
+    @ ('O14733', 'P45983'): 
+    @ ('O14733', 'P01100'): 
+    @ ('P45983', 'P01100'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ ('Q04759', 'Q9UG54', 'O14733'): 
+    @ ('Q04759', 'Q9UG54', 'P45983'): 
+    @ ('Q04759', 'Q9UG54', 'P01100'): 
+    @ ('Q04759', 'O14733', 'P45983'): 
+    @ ('Q04759', 'O14733', 'P01100'): 
+    @ ('Q04759', 'P45983', 'P01100'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'kidney', 'ovary', 'spinal cord', 'urinary bladder', 'granulocytes', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'esophagus', 'lymph node', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'retina', 'basal ganglia', 'hippocampal formation', 'tonsil', 'duodenum', 'gallbladder', 'colon', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'hypothalamus', 'rectum', 'pons and medulla', 'stomach 1', 'corpus callosum'}
+    @ ('Q9UG54', 'O14733', 'P45983'): 
+    @ ('Q9UG54', 'O14733', 'P01100'): 
+    @ ('Q9UG54', 'P45983', 'P01100'): 
+    @ ('O14733', 'P45983', 'P01100'): 
+    @ ('Q04759', 'Q9UG54', 'O14733', 'P45983'): 
+    @ ('Q04759', 'Q9UG54', 'O14733', 'P01100'): 
+    @ ('Q04759', 'Q9UG54', 'P45983', 'P01100'): 
+    @ ('Q04759', 'O14733', 'P45983', 'P01100'): 
+    @ ('Q9UG54', 'O14733', 'P45983', 'P01100'): 
+    @ ('Q04759', 'Q9UG54', 'O14733', 'P45983', 'P01100'): 
+ > expected protein position in pathway:
+    @ Q04759: {0}
+    @ Q9UG54: 
+    @ O14733: 
+    @ P45983: {1}
+    @ P01100: {2}

@@ -1,0 +1,168 @@
+[2020-04-27 02.53.34.790837] O15530 to Q9Y6K9 (900.0,1.0)
+
+--- Predicted pathways between O15530 and Q9Y6K9 ---
+
+Pathways in spleen:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in tongue:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in bone marrow:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in small intestine:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in ductus deferens:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in kidney:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in ovary:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in parathyroid gland:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in spinal cord:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in urinary bladder:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in granulocytes:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in adipose tissue:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in amygdala:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in endometrium 1:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in appendix:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in fallopian tube:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in testis:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in esophagus:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in lymph node:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in vagina:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in thalamus:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in midbrain:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in thymus:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in pancreas:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in adrenal gland:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in retina:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in NK-cells:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in basal ganglia:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in hippocampal formation:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in tonsil:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in B-cells:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in duodenum:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in smooth muscle:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in liver:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in heart muscle:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in skin 1:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in dendritic cells:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in gallbladder:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in cerebellum:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in colon:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in placenta:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in thyroid gland:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in cerebral cortex:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in epididymis:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in lung:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in seminal vesicle:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in prostate:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in breast:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in olfactory region:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in salivary gland:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in skeletal muscle:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in total PBMC:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in rectum:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in monocytes:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in pons and medulla:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in T-cells:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in stomach 1:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+Pathways in corpus callosum:
+ >> #1:	O15530	Q9Y6K9		PDPK1	IKBKG
+
+
+--- Prediction Analysis Results ---
+
+ > length: [1]
+ > n_tissues: 58
+ > largest tissue pathway set: 1
+ > smallest tissue pathway set: 1
+ > FP <= E: 71012
+ > expected path present: False
+ > expected protein presence:
+    @ O15530: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ Q9Y243: 
+    @ Q5T857: 
+    @ Q99558: 
+    @ Q9Y6K9: {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'stomach 1', 'adipose tissue', 'granulocytes', 'T-cells', 'endometrium 1', 'amygdala', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'heart muscle', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'monocytes', 'pons and medulla', 'skin 1', 'liver', 'corpus callosum'}
+    @ ('O15530', 'Q9Y243'): 
+    @ ('O15530', 'Q5T857'): 
+    @ ('O15530', 'Q99558'): 
+    @ ('O15530', 'Q9Y6K9'): {'spleen', 'tongue', 'bone marrow', 'small intestine', 'ductus deferens', 'kidney', 'ovary', 'parathyroid gland', 'spinal cord', 'urinary bladder', 'granulocytes', 'adipose tissue', 'amygdala', 'endometrium 1', 'appendix', 'fallopian tube', 'testis', 'esophagus', 'lymph node', 'vagina', 'thalamus', 'midbrain', 'thymus', 'pancreas', 'adrenal gland', 'retina', 'NK-cells', 'basal ganglia', 'hippocampal formation', 'tonsil', 'B-cells', 'duodenum', 'smooth muscle', 'liver', 'heart muscle', 'skin 1', 'dendritic cells', 'gallbladder', 'cerebellum', 'colon', 'placenta', 'thyroid gland', 'cerebral cortex', 'epididymis', 'lung', 'seminal vesicle', 'prostate', 'breast', 'olfactory region', 'salivary gland', 'skeletal muscle', 'total PBMC', 'rectum', 'monocytes', 'pons and medulla', 'T-cells', 'stomach 1', 'corpus callosum'}
+    @ ('Q9Y243', 'Q5T857'): 
+    @ ('Q9Y243', 'Q99558'): 
+    @ ('Q9Y243', 'Q9Y6K9'): 
+    @ ('Q5T857', 'Q99558'): 
+    @ ('Q5T857', 'Q9Y6K9'): 
+    @ ('Q99558', 'Q9Y6K9'): 
+    @ ('O15530', 'Q9Y243', 'Q5T857'): 
+    @ ('O15530', 'Q9Y243', 'Q99558'): 
+    @ ('O15530', 'Q9Y243', 'Q9Y6K9'): 
+    @ ('O15530', 'Q5T857', 'Q99558'): 
+    @ ('O15530', 'Q5T857', 'Q9Y6K9'): 
+    @ ('O15530', 'Q99558', 'Q9Y6K9'): 
+    @ ('Q9Y243', 'Q5T857', 'Q99558'): 
+    @ ('Q9Y243', 'Q5T857', 'Q9Y6K9'): 
+    @ ('Q9Y243', 'Q99558', 'Q9Y6K9'): 
+    @ ('Q5T857', 'Q99558', 'Q9Y6K9'): 
+    @ ('O15530', 'Q9Y243', 'Q5T857', 'Q99558'): 
+    @ ('O15530', 'Q9Y243', 'Q5T857', 'Q9Y6K9'): 
+    @ ('O15530', 'Q9Y243', 'Q99558', 'Q9Y6K9'): 
+    @ ('O15530', 'Q5T857', 'Q99558', 'Q9Y6K9'): 
+    @ ('Q9Y243', 'Q5T857', 'Q99558', 'Q9Y6K9'): 
+    @ ('O15530', 'Q9Y243', 'Q5T857', 'Q99558', 'Q9Y6K9'): 
+ > expected protein position in pathway:
+    @ O15530: {0}
+    @ Q9Y243: 
+    @ Q5T857: 
+    @ Q99558: 
+    @ Q9Y6K9: {1}
